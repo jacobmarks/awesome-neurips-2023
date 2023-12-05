@@ -1,4 +1,6 @@
-## Poster Session 2: Tuesday, Dec 12, 15:15 CT### (Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy
+## Poster Session 2: Tuesday, Dec 12, 15:15 CT
+
+### (Almost) Provable Error Bounds Under Distribution Shift via Disagreement Discrepancy
 
 **Authors:** Elan Rosenfeld, Saurabh Garg
 

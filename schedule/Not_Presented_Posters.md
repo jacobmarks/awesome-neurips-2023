@@ -1,4 +1,6 @@
-## Posters Not Being Presented### Active Negative Loss Functions for Learning with Noisy Labels
+## Posters Not Being Presented
+
+### Active Negative Loss Functions for Learning with Noisy Labels
 
 **Authors:** Xichen Ye, Xiaoqiang Li, songmin dai, Tong Liu, Yan Sun, Weiqin Tong
 

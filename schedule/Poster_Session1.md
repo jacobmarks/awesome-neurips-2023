@@ -1,4 +1,6 @@
-## Poster Session 1: Tuesday, Dec 12, 08:45 CT### (S)GD over Diagonal Linear Networks: Implicit bias, Large Stepsizes and Edge of Stability
+## Poster Session 1: Tuesday, Dec 12, 08:45 CT
+
+### (S)GD over Diagonal Linear Networks: Implicit bias, Large Stepsizes and Edge of Stability
 
 **Authors:** Mathieu Even, Scott Pesme, Suriya Gunasekar, Nicolas Flammarion
 

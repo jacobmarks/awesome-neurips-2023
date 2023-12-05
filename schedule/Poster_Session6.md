@@ -1,4 +1,6 @@
-## Poster Session 6: Thursday, Dec 14, 15:00 CT### $S^3$: Increasing GPU Utilization during Generative Inference for Higher Throughput
+## Poster Session 6: Thursday, Dec 14, 15:00 CT
+
+### $S^3$: Increasing GPU Utilization during Generative Inference for Higher Throughput
 
 **Authors:** Yunho Jin, Chun-Feng Wu, David Brooks, Gu-Yeon Wei
 

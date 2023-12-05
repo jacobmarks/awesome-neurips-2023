@@ -1,4 +1,6 @@
-## Poster Session 5: Thursday, Dec 14, 08:45 CT### $H$-Consistency Bounds: Characterization and Extensions
+## Poster Session 5: Thursday, Dec 14, 08:45 CT
+
+### $H$-Consistency Bounds: Characterization and Extensions
 
 **Authors:** Anqi Mao, Mehryar Mohri, Yutao Zhong
 

@@ -1,4 +1,6 @@
-## Poster Session 4: Wednesday, Dec 13, 15:00 CT### $\textbf{A}^2\textbf{CiD}^2$: Accelerating Asynchronous Communication in Decentralized Deep Learning
+## Poster Session 4: Wednesday, Dec 13, 15:00 CT
+
+### $\textbf{A}^2\textbf{CiD}^2$: Accelerating Asynchronous Communication in Decentralized Deep Learning
 
 **Authors:** Adel Nabli, Eugene Belilovsky, Edouard Oyallon
 

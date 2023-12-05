@@ -1,4 +1,6 @@
-## Poster Session 3: Wednesday, Dec 13, 08:45 CT### $L_2$-Uniform Stability of Randomized Learning Algorithms: Sharper Generalization Bounds and Confidence Boosting
+## Poster Session 3: Wednesday, Dec 13, 08:45 CT
+
+### $L_2$-Uniform Stability of Randomized Learning Algorithms: Sharper Generalization Bounds and Confidence Boosting
 
 **Authors:** Xiaotong Yuan, Ping Li
 

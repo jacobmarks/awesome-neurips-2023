@@ -126,7 +126,7 @@ def format_entry(entry):
 
 def _add_session(papers_by_session, session_number):
     session_str = f"{SESSION_DICT[session_number]}"
-    current_session = f"## {session_str}"
+    current_session = f"## {session_str}\n\n"
 
     # Add each paper to the session
     for entry in papers_by_session[session_number]:
