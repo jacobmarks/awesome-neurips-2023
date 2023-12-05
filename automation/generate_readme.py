@@ -40,7 +40,7 @@ def _add_row_to_table(data_file, entry: Series) -> str:
 
     hf_badge = HF_BADGE_PATTERN.format(hf_url) if type(hf_url) == str else ""
     code_badge = (
-        GITHUB_BADGE_PATTERN.format(code_url, GITHUB_CODE_PREFIX + code_url)
+        GITHUB_BADGE_PATTERN.format("/".join(code_url.split("/")[0:2]), GITHUB_CODE_PREFIX + code_url)
         if type(code_url) == str
         else ""
     )
