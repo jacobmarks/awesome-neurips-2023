@@ -104,11 +104,11 @@ def format_entry(entry):
     oral_str = ""
     authors = ", ".join(entry["authors"])
     abstract_string = ""
-    # abstract = entry["abstract"].replace("\n", "\n\n")
-    # if abstract == "":
-    #     abstract_string = ""
-    # else:
-    #     abstract_string = f"**<details><summary>Abstract**</summary>\n\n{abstract}</details>\n\n"
+    abstract = entry["abstract"].replace("\n", "\n\n")
+    if abstract == "":
+        abstract_string = ""
+    else:
+        abstract_string = f"**<details><summary>Abstract**</summary>\n\n{abstract}</details>\n\n"
     title_str = entry["title"]
     if entry["spotlight"]:
         title_str = "[Spotlight] " + title_str
@@ -126,27 +126,34 @@ def format_entry(entry):
 
 def _add_session(papers_by_session, session_number):
     session_str = f"{SESSION_DICT[session_number]}"
-    current_session = f"<details><summary><h3 style='display: inline;'> {session_str}</h3></summary>\n\n"
+    current_session = f"## {session_str}"
 
     # Add each paper to the session
     for entry in papers_by_session[session_number]:
         current_session += format_entry(entry)
-
-    # Close the session details block
-    current_session += "</details>\n\n"
 
     return current_session
 
 
 GITHUB_CUTOFF_MESSAGE = (
     "Note: GitHub automatically truncates files larger than 512 KB. "
-    "This means that papers in session 6 may not render correctly on GitHub. "
-    "Please download the file and open it locally to view the full schedule."
+    "To have all papers display on GitHub, we've split the file up by session."
 )
+
+def _format_poster_session_ref(session_file, session_number):
+    if session_number == -1:
+        link_text = f"Posters Not Presented"
+    else:
+        link_text = f"Poster Session {session_number}"
+        
+    return f"[{link_text}]({session_file})\n\n"
+
 
 def add_conference_schedule(markdown_content):
     markdown_content += "\n\n## Conference Schedule\n\n"
     markdown_content += GITHUB_CUTOFF_MESSAGE + "\n\n"
+
+
     with open(ALL_PAPERS_FILE, "r") as f:
         papers = json.load(f)
 
@@ -161,17 +168,24 @@ def add_conference_schedule(markdown_content):
     }
 
     for session_number in SESSION_NUMBERS:
-        markdown_content += _add_session(papers_by_session, session_number)
+        if session_number != -1:
+            session_file = f"schedule/Poster_Session{session_number}.md"
+        else:
+            session_file = "schedule/Not_Presented_Posters.md"
+
+        session_content = _add_session(papers_by_session, session_number)
+        with open(session_file, "w") as f:
+            f.write(session_content)
+        
+        markdown_content += _format_poster_session_ref(session_file, session_number)
 
     return markdown_content
 
 
-#####
 
 with open(INTRO_FILE, "r") as f:
     markdown_content = f.read()
 
-# markdown_content = HEADER + intro_content
 markdown_content = add_cool_projects(markdown_content)
 markdown_content = add_conference_schedule(markdown_content)
 
