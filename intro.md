@@ -48,6 +48,10 @@ The top 10 authors with the most papers at NeurIPS 2023 are:
 
 There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
+This continues the exponential explosion of unique authors over the past decade.
+
+![Neurips unique authors history](images/unique_authors_history_2014_2023.png)
+
 #### Number of authors per paper
 
 - The average number of authors per paper was **4.98**, up from 4.66 at NeurIPS 2022.
@@ -62,7 +66,10 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 ![Neurips 2023 title length histogram](images/title_length_histogram_2022_2023.png)
 
-- The average title length was **8.72** words, up from 8.48 at NeurIPS 2022.
+- The average title length was **8.72** words, up from 8.48 at NeurIPS 2022. This
+continues an ongoing trend of title lengthening:
+
+![Neurips title length history](images/title_length_history_2014_2023.png)
 
 #### Prevalence of Acronyms
 

@@ -1,0 +1,3092 @@
+{
+    "Eliciting Categorical Data for Optimal Aggregation": [
+        "Chien-Ju Ho",
+        "Rafael Frongillo",
+        "Yiling Chen"
+    ],
+    "A Locally Adaptive Normal Distribution": [
+        "Georgios Arvanitidis",
+        "Lars K. Hansen",
+        "S\u00f8ren Hauberg"
+    ],
+    "Tagger: Deep Unsupervised Perceptual Grouping": [
+        "Klaus Greff",
+        "Antti Rasmus",
+        "Mathias Berglund",
+        "Tele Hao",
+        "Harri Valpola",
+        "J\u00fcrgen Schmidhuber"
+    ],
+    "Online Bayesian Moment Matching for Topic Modeling with Unknown Number of Topics": [
+        "Wei-Shou Hsu",
+        "Pascal Poupart"
+    ],
+    "Conditional Generative Moment-Matching Networks": [
+        "Yong Ren",
+        "Jun Zhu",
+        "Jialian Li",
+        "Yucen Luo"
+    ],
+    "Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks": [
+        "Hao Wang",
+        "Xingjian SHI",
+        "Dit-Yan Yeung"
+    ],
+    "Bayesian Intermittent Demand Forecasting for Large Inventories": [
+        "Matthias W. Seeger",
+        "David Salinas",
+        "Valentin Flunkert"
+    ],
+    "Visual Dynamics: Probabilistic Future Frame Synthesis via Cross Convolutional Networks": [
+        "Tianfan Xue",
+        "Jiajun Wu",
+        "Katherine Bouman",
+        "Bill Freeman"
+    ],
+    "Achieving budget-optimality with adaptive schemes in crowdsourcing": [
+        "Ashish Khetan",
+        "Sewoong Oh"
+    ],
+    "Stochastic Gradient Richardson-Romberg Markov Chain Monte Carlo": [
+        "Alain Durmus",
+        "Umut Simsekli",
+        "Eric Moulines",
+        "Roland Badeau",
+        "Ga\u00ebl RICHARD"
+    ],
+    "Generating Videos with Scene Dynamics": [
+        "Carl Vondrick",
+        "Hamed Pirsiavash",
+        "Antonio Torralba"
+    ],
+    "Approximate maximum entropy principles via Goemans-Williamson with applications to provable variational methods": [
+        "Andrej Risteski",
+        "Yuanzhi Li"
+    ],
+    "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering": [
+        "Micha\u00ebl Defferrard",
+        "Xavier Bresson",
+        "Pierre Vandergheynst"
+    ],
+    "Fast Distributed Submodular Cover: Public-Private Data Summarization": [
+        "Baharan Mirzasoleiman",
+        "Morteza Zadimoghaddam",
+        "Amin Karbasi"
+    ],
+    "Exponential Family Embeddings": [
+        "Maja Rudolph",
+        "Francisco Ruiz",
+        "Stephan Mandt",
+        "David Blei"
+    ],
+    "A Non-parametric Learning Method for Confidently Estimating Patient's Clinical State and Dynamics": [
+        "William Hoiles",
+        "Mihaela van der Schaar"
+    ],
+    "Integrated perception with recurrent multi-task neural networks": [
+        "Hakan Bilen",
+        "Andrea Vedaldi"
+    ],
+    "Dialog-based Language Learning": [
+        "Jason E. Weston"
+    ],
+    "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks": [
+        "Yarin Gal",
+        "Zoubin Ghahramani"
+    ],
+    "Automatic Neuron Detection in Calcium Imaging Data Using Convolutional Networks": [
+        "Noah Apthorpe",
+        "Alexander Riordan",
+        "Robert Aguilar",
+        "Jan Homann",
+        "Yi Gu",
+        "David Tank",
+        "H. Sebastian Seung"
+    ],
+    "Convolutional Neural Fabrics": [
+        "Shreyas Saxena",
+        "Jakob Verbeek"
+    ],
+    "Budgeted stream-based active learning via adaptive submodular maximization": [
+        "Kaito Fujii",
+        "Hisashi Kashima"
+    ],
+    "An equivalence between high dimensional Bayes optimal inference and M-estimation": [
+        "Madhu Advani",
+        "Surya Ganguli"
+    ],
+    "A Sparse Interactive Model for Matrix Completion with Side Information": [
+        "Jin Lu",
+        "Guannan Liang",
+        "Jiangwen Sun",
+        "Jinbo Bi"
+    ],
+    "Bi-Objective Online Matching and Submodular  Allocations": [
+        "Hossein Esfandiari",
+        "Nitish Korula",
+        "Vahab Mirrokni"
+    ],
+    "Interpretable Distribution Features with Maximum Testing Power": [
+        "Wittawat Jitkrittum",
+        "Zolt\u00e1n Szab\u00f3",
+        "Kacper P. Chwialkowski",
+        "Arthur Gretton"
+    ],
+    "Finding significant combinations of features in the presence of categorical covariates": [
+        "Laetitia Papaxanthos",
+        "Felipe Llinares-L\u00f3pez",
+        "Dean Bodenham",
+        "Karsten Borgwardt"
+    ],
+    "A Non-convex One-Pass Framework for Generalized Factorization Machine and Rank-One Matrix Sensing": [
+        "Ming Lin",
+        "Jieping Ye"
+    ],
+    "Avoiding Imposters and Delinquents: Adversarial Crowdsourcing and Peer Prediction": [
+        "Jacob Steinhardt",
+        "Gregory Valiant",
+        "Moses Charikar"
+    ],
+    "Threshold Bandits, With and Without Censored Feedback": [
+        "Jacob D. Abernethy",
+        "Kareem Amin",
+        "Ruihao Zhu"
+    ],
+    "Variational Bayes on Monte Carlo Steroids": [
+        "Aditya Grover",
+        "Stefano Ermon"
+    ],
+    "Finite-Dimensional BFRY Priors and Variational Bayesian Inference for Power Law Models": [
+        "Juho Lee",
+        "Lancelot F. James",
+        "Seungjin Choi"
+    ],
+    "Maximal Sparsity with Deep Networks?": [
+        "Bo Xin",
+        "Yizhou Wang",
+        "Wen Gao",
+        "David Wipf",
+        "Baoyuan Wang"
+    ],
+    "Single-Image Depth Perception in the Wild": [
+        "Weifeng Chen",
+        "Zhao Fu",
+        "Dawei Yang",
+        "Jia Deng"
+    ],
+    "Single Pass PCA of Matrix Products": [
+        "Shanshan Wu",
+        "Srinadh Bhojanapalli",
+        "Sujay Sanghavi",
+        "Alexandros G. Dimakis"
+    ],
+    "Optimal Sparse Linear Encoders and Sparse PCA": [
+        "Malik Magdon-Ismail",
+        "Christos Boutsidis"
+    ],
+    "Measuring the reliability of MCMC inference with bidirectional Monte Carlo": [
+        "Roger B. Grosse",
+        "Siddharth Ancha",
+        "Daniel M. Roy"
+    ],
+    "Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections": [
+        "Xiaojiao Mao",
+        "Chunhua Shen",
+        "Yu-Bin Yang"
+    ],
+    "On Valid Optimal Assignment Kernels and Applications to Graph Classification": [
+        "Nils M. Kriege",
+        "Pierre-Louis Giscard",
+        "Richard Wilson"
+    ],
+    "Multi-view Anomaly Detection via Robust Probabilistic Latent Variable Models": [
+        "Tomoharu Iwata",
+        "Makoto Yamada"
+    ],
+    "Optimal Architectures in a Solvable Model of Deep Networks": [
+        "Jonathan Kadmon",
+        "Haim Sompolinsky"
+    ],
+    "Efficient state-space modularization for planning: theory, behavioral and neural signatures": [
+        "Daniel McNamee",
+        "Daniel M. Wolpert",
+        "Mate Lengyel"
+    ],
+    "A Communication-Efficient Parallel Algorithm for Decision Tree": [
+        "Qi Meng",
+        "Guolin Ke",
+        "Taifeng Wang",
+        "Wei Chen",
+        "Qiwei Ye",
+        "Zhi-Ming Ma",
+        "Tie-Yan Liu"
+    ],
+    "Supervised Word Mover's Distance": [
+        "Gao Huang",
+        "Chuan Guo",
+        "Matt J. Kusner",
+        "Yu Sun",
+        "Fei Sha",
+        "Kilian Q. Weinberger"
+    ],
+    "Fast and accurate spike sorting of high-channel count probes with KiloSort": [
+        "Marius Pachitariu",
+        "Nicholas A. Steinmetz",
+        "Shabnam N. Kadir",
+        "Matteo Carandini",
+        "Kenneth D. Harris"
+    ],
+    "Learning brain regions via large-scale online structured sparse dictionary learning": [
+        "Elvis DOHMATOB",
+        "Arthur Mensch",
+        "Gael Varoquaux",
+        "Bertrand Thirion"
+    ],
+    "Improving PAC Exploration Using the Median Of Means": [
+        "Jason Pazis",
+        "Ronald E. Parr",
+        "Jonathan P. How"
+    ],
+    "Active Nearest-Neighbor Learning in Metric Spaces": [
+        "Aryeh Kontorovich",
+        "Sivan Sabato",
+        "Ruth Urner"
+    ],
+    "Learning from Small Sample Sets by Combining Unsupervised Meta-Training with CNNs": [
+        "Yu-Xiong Wang",
+        "Martial Hebert"
+    ],
+    "Learning Bayesian networks with ancestral constraints": [
+        "Eunice Yuh-Jie Chen",
+        "Yujia Shen",
+        "Arthur Choi",
+        "Adnan Darwiche"
+    ],
+    "Exponential expressivity in deep neural networks through transient chaos": [
+        "Ben Poole",
+        "Subhaneil Lahiri",
+        "Maithra Raghu",
+        "Jascha Sohl-Dickstein",
+        "Surya Ganguli"
+    ],
+    "MetaGrad: Multiple Learning Rates in Online Learning": [
+        "Tim van Erven",
+        "Wouter M. Koolen"
+    ],
+    "Learning under uncertainty: a comparison between R-W and Bayesian approach": [
+        "He Huang",
+        "Martin Paulus"
+    ],
+    "End-to-End Goal-Driven Web Navigation": [
+        "Rodrigo Nogueira",
+        "Kyunghyun Cho"
+    ],
+    "Higher-Order Factorization Machines": [
+        "Mathieu Blondel",
+        "Akinori Fujino",
+        "Naonori Ueda",
+        "Masakazu Ishihata"
+    ],
+    "Efficient Second Order Online Learning by Sketching": [
+        "Haipeng Luo",
+        "Alekh Agarwal",
+        "Nicol\u00f2 Cesa-Bianchi",
+        "John Langford"
+    ],
+    "Professor Forcing: A New Algorithm for Training Recurrent Networks": [
+        "Alex M. Lamb",
+        "Anirudh Goyal ALIAS PARTH GOYAL",
+        "Ying Zhang",
+        "Saizheng Zhang",
+        "Aaron C. Courville",
+        "Yoshua Bengio"
+    ],
+    "Deep ADMM-Net for Compressive Sensing MRI": [
+        "yan yang",
+        "Jian Sun",
+        "Huibin Li",
+        "Zongben Xu"
+    ],
+    "Adaptive Averaging in Accelerated Descent Dynamics": [
+        "Walid Krichene",
+        "Alexandre Bayen",
+        "Peter L. Bartlett"
+    ],
+    "Dynamic Mode Decomposition with Reproducing Kernels for Koopman Spectral Analysis": [
+        "Yoshinobu Kawahara"
+    ],
+    "Total Variation Classes Beyond 1d: Minimax Rates, and the Limitations of Linear Smoothers": [
+        "Veeranjaneyulu Sadhanala",
+        "Yu-Xiang Wang",
+        "Ryan J. Tibshirani"
+    ],
+    "Hardness of Online Sleeping Combinatorial Optimization Problems": [
+        "Satyen Kale",
+        "Chansoo Lee",
+        "David Pal"
+    ],
+    "Density Estimation via Discrepancy Based Adaptive Sequential Partition": [
+        "Dangna Li",
+        "Kun Yang",
+        "Wing Hung Wong"
+    ],
+    "Quantized Random Projections and Non-Linear Estimation of Cosine Similarity": [
+        "Ping Li",
+        "Michael Mitzenmacher",
+        "Martin Slawski"
+    ],
+    "Algorithms and matching lower bounds for approximately-convex optimization": [
+        "Andrej Risteski",
+        "Yuanzhi Li"
+    ],
+    "The Parallel Knowledge Gradient Method for Batch Bayesian Optimization": [
+        "Jian Wu",
+        "Peter Frazier"
+    ],
+    "Edge-exchangeable graphs and sparsity": [
+        "Diana Cai",
+        "Trevor Campbell",
+        "Tamara Broderick"
+    ],
+    "Stochastic Variance Reduction Methods for Saddle-Point Problems": [
+        "Balamurugan Palaniappan",
+        "Francis Bach"
+    ],
+    "A Probabilistic Model of Social Decision Making based on Reward Maximization": [
+        "Koosha Khalvati",
+        "Seongmin A. Park",
+        "Jean-Claude Dreher",
+        "Rajesh PN Rao"
+    ],
+    "Bootstrap Model Aggregation for Distributed Statistical Learning": [
+        "JUN HAN",
+        "Qiang Liu"
+    ],
+    "Unsupervised Learning of 3D Structure from Images": [
+        "Danilo Jimenez Rezende",
+        "S. M. Ali Eslami",
+        "Shakir Mohamed",
+        "Peter Battaglia",
+        "Max Jaderberg",
+        "Nicolas Heess"
+    ],
+    "beta-risk: a New Surrogate Risk for Learning from Weakly Labeled Data": [
+        "Valentina Zantedeschi",
+        "R\u00e9mi Emonet",
+        "Marc Sebban"
+    ],
+    "Learning Supervised PageRank with Gradient-Based and Gradient-Free Optimization Methods": [
+        "Lev Bogolubsky",
+        "Pavel Dvurechenskii",
+        "Alexander Gasnikov",
+        "Gleb Gusev",
+        "Yurii Nesterov",
+        "Andrei M. Raigorodskii",
+        "Aleksey Tikhonov",
+        "Maksim Zhukovskii"
+    ],
+    "Globally Optimal Training of Generalized Polynomial Neural Networks with Nonlinear Spectral Methods": [
+        "Antoine Gautier",
+        "Quynh N. Nguyen",
+        "Matthias Hein"
+    ],
+    "Optimal Black-Box Reductions Between Optimization Objectives": [
+        "Zeyuan Allen-Zhu",
+        "Elad Hazan"
+    ],
+    "Sequential Neural Models with Stochastic Layers": [
+        "Marco Fraccaro",
+        "S\u00f8ren Kaae S\u00f8nderby",
+        "Ulrich Paquet",
+        "Ole Winther"
+    ],
+    "Iterative Refinement of the Approximate Posterior for Directed Belief Networks": [
+        "Devon Hjelm",
+        "Russ R. Salakhutdinov",
+        "Kyunghyun Cho",
+        "Nebojsa Jojic",
+        "Vince Calhoun",
+        "Junyoung Chung"
+    ],
+    "Stochastic Multiple Choice Learning for Training Diverse Deep Ensembles": [
+        "Stefan Lee",
+        "Senthil Purushwalkam Shiva Prakash",
+        "Michael Cogswell",
+        "Viresh Ranjan",
+        "David Crandall",
+        "Dhruv Batra"
+    ],
+    "Learning shape correspondence with anisotropic convolutional neural networks": [
+        "Davide Boscaini",
+        "Jonathan Masci",
+        "Emanuele Rodol\u00e0",
+        "Michael Bronstein"
+    ],
+    "Learning Tree Structured Potential Games": [
+        "Vikas Garg",
+        "Tommi Jaakkola"
+    ],
+    "RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism": [
+        "Edward Choi",
+        "Mohammad Taha Bahadori",
+        "Jimeng Sun",
+        "Joshua Kulas",
+        "Andy Schuetz",
+        "Walter Stewart"
+    ],
+    "PAC Reinforcement Learning with Rich Observations": [
+        "Akshay Krishnamurthy",
+        "Alekh Agarwal",
+        "John Langford"
+    ],
+    "Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data": [
+        "Xinghua Lou",
+        "Ken Kansky",
+        "Wolfgang Lehrach",
+        "CC Laan",
+        "Bhaskara Marthi",
+        "D. Phoenix",
+        "Dileep George"
+    ],
+    "Probabilistic Linear Multistep Methods": [
+        "Onur Teymur",
+        "Kostas Zygalakis",
+        "Ben Calderhead"
+    ],
+    "Computational and Statistical Tradeoffs in Learning to Rank": [
+        "Ashish Khetan",
+        "Sewoong Oh"
+    ],
+    "Split LBI: An Iterative Regularization Path with Structural Sparsity": [
+        "Chendi Huang",
+        "Xinwei Sun",
+        "Jiechao Xiong",
+        "Yuan Yao"
+    ],
+    "Incremental Variational Sparse Gaussian Process Regression": [
+        "Ching-An Cheng",
+        "Byron Boots"
+    ],
+    "Sublinear Time Orthogonal Tensor Decomposition": [
+        "Zhao Song",
+        "David Woodruff",
+        "Huan Zhang"
+    ],
+    "Mapping Estimation for Discrete Optimal Transport": [
+        "Micha\u00ebl Perrot",
+        "Nicolas Courty",
+        "R\u00e9mi Flamary",
+        "Amaury Habrard"
+    ],
+    "Greedy Feature Construction": [
+        "Dino Oglic",
+        "Thomas G\u00e4rtner"
+    ],
+    "Dynamic Network Surgery for Efficient DNNs": [
+        "Yiwen Guo",
+        "Anbang Yao",
+        "Yurong Chen"
+    ],
+    "Graph Clustering: Block-models and model free results": [
+        "Yali Wan",
+        "Marina Meila"
+    ],
+    "CMA-ES with Optimal Covariance Update and Storage Complexity": [
+        "Oswin Krause",
+        "D\u00eddac Rodr\u00edguez Arbon\u00e8s",
+        "Christian Igel"
+    ],
+    "Feature selection in functional data classification with recursive maxima hunting": [
+        "Jos\u00e9 L. Torrecilla",
+        "Alberto Su\u00e1rez"
+    ],
+    "Cyclades: Conflict-free Asynchronous Machine Learning": [
+        "Xinghao Pan",
+        "Maximilian Lam",
+        "Stephen Tu",
+        "Dimitris Papailiopoulos",
+        "Ce Zhang",
+        "Michael I. Jordan",
+        "Kannan Ramchandran",
+        "Christopher R\u00e9"
+    ],
+    "Proximal Stochastic Methods for Nonsmooth Nonconvex Finite-Sum Optimization": [
+        "Sashank J. Reddi",
+        "Suvrit Sra",
+        "Barnabas Poczos",
+        "Alexander J. Smola"
+    ],
+    "Spectral Learning of Dynamic Systems from Nonequilibrium Data": [
+        "Hao Wu",
+        "Frank Noe"
+    ],
+    "Dimension-Free Iteration Complexity of Finite Sum Optimization Problems": [
+        "Yossi Arjevani",
+        "Ohad Shamir"
+    ],
+    "Hierarchical Object Representation for Open-Ended Object Category Learning and Recognition": [
+        "Seyed Hamidreza Kasaei",
+        "Ana Maria Tom\u00e9",
+        "Lu\u00eds Seabra Lopes"
+    ],
+    "Active Learning with Oracle Epiphany": [
+        "Tzu-Kuo Huang",
+        "Lihong Li",
+        "Ara Vartanian",
+        "Saleema Amershi",
+        "Jerry Zhu"
+    ],
+    "Stochastic Optimization for Large-scale Optimal Transport": [
+        "Aude Genevay",
+        "Marco Cuturi",
+        "Gabriel Peyr\u00e9",
+        "Francis Bach"
+    ],
+    "The Sound of APALM Clapping: Faster Nonsmooth Nonconvex Optimization with Stochastic Asynchronous PALM": [
+        "Damek Davis",
+        "Brent Edmunds",
+        "Madeleine Udell"
+    ],
+    "Coresets for Scalable Bayesian Logistic Regression": [
+        "Jonathan Huggins",
+        "Trevor Campbell",
+        "Tamara Broderick"
+    ],
+    "Sorting out typicality with the inverse moment matrix SOS polynomial": [
+        "Edouard Pauwels",
+        "Jean B. Lasserre"
+    ],
+    "The Multi-fidelity Multi-armed Bandit": [
+        "Kirthevasan Kandasamy",
+        "Gautam Dasarathy",
+        "Barnabas Poczos",
+        "Jeff Schneider"
+    ],
+    "Joint Line Segmentation and Transcription for End-to-End Handwritten Paragraph Recognition": [
+        "Theodore Bluche"
+    ],
+    "k*-Nearest Neighbors: From Global to Local": [
+        "Oren Anava",
+        "Kfir Levy"
+    ],
+    "Protein contact prediction from amino acid co-evolution using convolutional networks for graph-valued images": [
+        "Vladimir Golkov",
+        "Marcin J. Skwark",
+        "Antonij Golkov",
+        "Alexey Dosovitskiy",
+        "Thomas Brox",
+        "Jens Meiler",
+        "Daniel Cremers"
+    ],
+    "Learnable Visual Markers": [
+        "Oleg Grinchuk",
+        "Vadim Lebedev",
+        "Victor Lempitsky"
+    ],
+    "Finite-Sample Analysis of Fixed-k Nearest Neighbor Density Functional Estimators": [
+        "Shashank Singh",
+        "Barnabas Poczos"
+    ],
+    "Maximizing Influence in an Ising Network: A Mean-Field Optimal Solution": [
+        "Christopher Lynn",
+        "Daniel D. Lee"
+    ],
+    "Regret Bounds for Non-decomposable Metrics with Missing Labels": [
+        "Nagarajan Natarajan",
+        "Prateek Jain"
+    ],
+    "Adaptive Concentration Inequalities for Sequential Decision Problems": [
+        "Shengjia Zhao",
+        "Enze Zhou",
+        "Ashish Sabharwal",
+        "Stefano Ermon"
+    ],
+    "Refined Lower Bounds for Adversarial Bandits": [
+        "S\u00e9bastien Gerchinovitz",
+        "Tor Lattimore"
+    ],
+    "Structure-Blind Signal Recovery": [
+        "Dmitry Ostrovsky",
+        "Zaid Harchaoui",
+        "Anatoli Juditsky",
+        "Arkadi S. Nemirovski"
+    ],
+    "Reward Augmented Maximum Likelihood for Neural Structured Prediction": [
+        "Mohammad Norouzi",
+        "Samy Bengio",
+        "zhifeng Chen",
+        "Navdeep Jaitly",
+        "Mike Schuster",
+        "Yonghui Wu",
+        "Dale Schuurmans"
+    ],
+    "Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning": [
+        "Mehdi Sajjadi",
+        "Mehran Javanmardi",
+        "Tolga Tasdizen"
+    ],
+    "An Online Sequence-to-Sequence Model Using Partial Conditioning": [
+        "Navdeep Jaitly",
+        "Quoc V. Le",
+        "Oriol Vinyals",
+        "Ilya Sutskever",
+        "David Sussillo",
+        "Samy Bengio"
+    ],
+    "Interaction Networks for Learning about Objects, Relations and Physics": [
+        "Peter Battaglia",
+        "Razvan Pascanu",
+        "Matthew Lai",
+        "Danilo Jimenez Rezende",
+        "koray kavukcuoglu"
+    ],
+    "Bayesian optimization under mixed constraints  with a slack-variable augmented Lagrangian": [
+        "Victor Picheny",
+        "Robert B. Gramacy",
+        "Stefan Wild",
+        "Sebastien Le Digabel"
+    ],
+    "Combinatorial Energy Learning for Image Segmentation": [
+        "Jeremy B. Maitin-Shepard",
+        "Viren Jain",
+        "Michal Januszewski",
+        "Peter Li",
+        "Pieter Abbeel"
+    ],
+    "Bayesian Optimization for Probabilistic Programs": [
+        "Tom Rainforth",
+        "Tuan Anh Le",
+        "Jan-Willem van de Meent",
+        "Michael A. Osborne",
+        "Frank Wood"
+    ],
+    "Coin Betting and Parameter-Free Online Learning": [
+        "Francesco Orabona",
+        "David Pal"
+    ],
+    "Learning Deep Embeddings with Histogram Loss": [
+        "Evgeniya Ustinova",
+        "Victor Lempitsky"
+    ],
+    "An Efficient Streaming Algorithm for the Submodular Cover Problem": [
+        "Ashkan Norouzi-Fard",
+        "Abbas Bazzi",
+        "Ilija Bogunovic",
+        "Marwa El Halabi",
+        "Ya-Ping Hsieh",
+        "Volkan Cevher"
+    ],
+    "Fundamental Limits of Budget-Fidelity Trade-off in Label Crowdsourcing": [
+        "Farshad Lahouti",
+        "Babak Hassibi"
+    ],
+    "Beyond Exchangeability: The Chinese Voting Process": [
+        "Moontae Lee",
+        "Seok Hyun Jin",
+        "David Mimno"
+    ],
+    "Robust Spectral Detection of Global Structures in the Data by Learning a Regularization": [
+        "Pan Zhang"
+    ],
+    "Optimal spectral transportation with application to music transcription": [
+        "R\u00e9mi Flamary",
+        "C\u00e9dric F\u00e9votte",
+        "Nicolas Courty",
+        "Valentin Emiya"
+    ],
+    "MoCap-guided Data Augmentation for 3D Pose Estimation in the Wild": [
+        "Gregory Rogez",
+        "Cordelia Schmid"
+    ],
+    "A Constant-Factor Bi-Criteria Approximation Guarantee for k-means++": [
+        "Dennis Wei"
+    ],
+    "CNNpack: Packing Convolutional Neural Networks in the Frequency Domain": [
+        "Yunhe Wang",
+        "Chang Xu",
+        "Shan You",
+        "Dacheng Tao",
+        "Chao Xu"
+    ],
+    "Feature-distributed sparse regression: a screen-and-clean approach": [
+        "Jiyan Yang",
+        "Michael W. Mahoney",
+        "Michael Saunders",
+        "Yuekai Sun"
+    ],
+    "Generating Images with Perceptual Similarity Metrics based on Deep Networks": [
+        "Alexey Dosovitskiy",
+        "Thomas Brox"
+    ],
+    "Residual Networks Behave Like Ensembles of Relatively Shallow Networks": [
+        "Andreas Veit",
+        "Michael J. Wilber",
+        "Serge Belongie"
+    ],
+    "Low-Rank Regression with Tensor Responses": [
+        "Guillaume Rabusseau",
+        "Hachem Kadri"
+    ],
+    "Provable Efficient Online Matrix Completion via Non-convex Stochastic Gradient Descent": [
+        "Chi Jin",
+        "Sham M. Kakade",
+        "Praneeth Netrapalli"
+    ],
+    "Local Maxima in the Likelihood of Gaussian Mixture Models: Structural Results and Algorithmic Consequences": [
+        "Chi Jin",
+        "Yuchen Zhang",
+        "Sivaraman Balakrishnan",
+        "Martin J. Wainwright",
+        "Michael I. Jordan"
+    ],
+    "Diffusion-Convolutional Neural Networks": [
+        "James Atwood",
+        "Don Towsley"
+    ],
+    "Completely random measures for modelling block-structured sparse networks": [
+        "Tue Herlau",
+        "Mikkel N. Schmidt",
+        "Morten M\u00f8rup"
+    ],
+    "Pruning Random Forests for Prediction on a Budget": [
+        "Feng Nan",
+        "Joseph Wang",
+        "Venkatesh Saligrama"
+    ],
+    "Synthesis of MCMC and Belief Propagation": [
+        "Sung-Soo Ahn",
+        "Michael Chertkov",
+        "Jinwoo Shin"
+    ],
+    "Neurons Equipped with Intrinsic Plasticity Learn Stimulus Intensity Statistics": [
+        "Travis Monk",
+        "Cristina Savin",
+        "J\u00f6rg L\u00fccke"
+    ],
+    "Disease Trajectory Maps": [
+        "Peter Schulam",
+        "Raman Arora"
+    ],
+    "Bayesian optimization for automated model selection": [
+        "Gustavo Malkomes",
+        "Charles Schaff",
+        "Roman Garnett"
+    ],
+    "Designing smoothing functions for improved worst-case competitive ratio in online optimization": [
+        "Reza Eghbali",
+        "Maryam Fazel"
+    ],
+    "Towards Unifying Hamiltonian Monte Carlo and Slice Sampling": [
+        "Yizhe Zhang",
+        "Xiangyu Wang",
+        "Changyou Chen",
+        "Ricardo Henao",
+        "Kai Fan",
+        "Lawrence Carin"
+    ],
+    "Multi-step learning and underlying structure in statistical models": [
+        "Maia Fraser"
+    ],
+    "The non-convex Burer-Monteiro approach works on smooth semidefinite programs": [
+        "Nicolas Boumal",
+        "Vlad Voroninski",
+        "Afonso Bandeira"
+    ],
+    "Minimizing Regret on Reflexive Banach Spaces and Nash Equilibria in Continuous Zero-Sum Games": [
+        "Maximilian Balandat",
+        "Walid Krichene",
+        "Claire Tomlin",
+        "Alexandre Bayen"
+    ],
+    "Spatiotemporal Residual Networks for Video Action Recognition": [
+        "Christoph Feichtenhofer",
+        "Axel Pinz",
+        "Richard Wildes"
+    ],
+    "Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes": [
+        "Jack Rae",
+        "Jonathan J. Hunt",
+        "Ivo Danihelka",
+        "Timothy Harley",
+        "Andrew W. Senior",
+        "Gregory Wayne",
+        "Alex Graves",
+        "Timothy Lillicrap"
+    ],
+    "Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks": [
+        "Daniel Ritchie",
+        "Anna Thomas",
+        "Pat Hanrahan",
+        "Noah Goodman"
+    ],
+    "Reconstructing Parameters of Spreading Models from Partial Observations": [
+        "Andrey Lokhov"
+    ],
+    "Tracking the Best Expert in Non-stationary Stochastic Environments": [
+        "Chen-Yu Wei",
+        "Yi-Te Hong",
+        "Chi-Jen Lu"
+    ],
+    "Statistical Inference for Pairwise Graphical Models Using Score Matching": [
+        "Ming Yu",
+        "Mladen Kolar",
+        "Varun Gupta"
+    ],
+    "Learning Structured Sparsity in Deep Neural Networks": [
+        "Wei Wen",
+        "Chunpeng Wu",
+        "Yandan Wang",
+        "Yiran Chen",
+        "Hai Li"
+    ],
+    "Efficient Globally Convergent Stochastic Optimization for Canonical Correlation Analysis": [
+        "Weiran Wang",
+        "Jialei Wang",
+        "Dan Garber",
+        "Dan Garber",
+        "Nati Srebro"
+    ],
+    "How Deep is the Feature Analysis underlying Rapid Visual Categorization?": [
+        "Sven Eberhardt",
+        "Jonah G. Cader",
+        "Thomas Serre"
+    ],
+    "Regret of Queueing Bandits": [
+        "Subhashini Krishnasamy",
+        "Rajat Sen",
+        "Ramesh Johari",
+        "Sanjay Shakkottai"
+    ],
+    "Dual Space Gradient Descent for Online Learning": [
+        "Trung Le",
+        "Tu Nguyen",
+        "Vu Nguyen",
+        "Dinh Phung"
+    ],
+    "Asynchronous Parallel Greedy Coordinate Descent": [
+        "Yang You",
+        "Xiangru Lian",
+        "Ji Liu",
+        "Hsiang-Fu Yu",
+        "Inderjit S. Dhillon",
+        "James Demmel",
+        "Cho-Jui Hsieh"
+    ],
+    "Catching heuristics are optimal control policies": [
+        "Boris Belousov",
+        "Gerhard Neumann",
+        "Constantin A. Rothkopf",
+        "Jan R. Peters"
+    ],
+    "Online Pricing with Strategic and Patient Buyers": [
+        "Michal Feldman",
+        "Tomer Koren",
+        "Roi Livni",
+        "Yishay Mansour",
+        "Aviv Zohar"
+    ],
+    "Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling": [
+        "Jiajun Wu",
+        "Chengkai Zhang",
+        "Tianfan Xue",
+        "Bill Freeman",
+        "Josh Tenenbaum"
+    ],
+    "Optimistic Gittins Indices": [
+        "Eli Gutin",
+        "Vivek Farias"
+    ],
+    "Stochastic Gradient Methods for Distributionally Robust Optimization with f-divergences": [
+        "Hongseok Namkoong",
+        "John C. Duchi"
+    ],
+    "Breaking the Bandwidth Barrier: Geometrical Adaptive Entropy Estimation": [
+        "Weihao Gao",
+        "Sewoong Oh",
+        "Pramod Viswanath"
+    ],
+    "Domain Separation Networks": [
+        "Konstantinos Bousmalis",
+        "George Trigeorgis",
+        "Nathan Silberman",
+        "Dilip Krishnan",
+        "Dumitru Erhan"
+    ],
+    "A Probabilistic Programming Approach To Probabilistic Data Analysis": [
+        "Feras Saad",
+        "Vikash K. Mansinghka"
+    ],
+    "Assortment Optimization Under the Mallows model": [
+        "Antoine Desir",
+        "Vineet Goyal",
+        "Srikanth Jagabathula",
+        "Danny Segev"
+    ],
+    "An algorithm for L1 nearest neighbor search via monotonic embedding": [
+        "Xinan Wang",
+        "Sanjoy Dasgupta"
+    ],
+    "Multi-armed Bandits: Competing with Optimal Sequences": [
+        "Zohar S. Karnin",
+        "Oren Anava"
+    ],
+    "NESTT: A Nonconvex Primal-Dual Splitting Method for Distributed and Stochastic Optimization": [
+        "Davood Hajinezhad",
+        "Mingyi Hong",
+        "Tuo Zhao",
+        "Zhaoran Wang"
+    ],
+    "Probing the Compositionality of Intuitive Functions": [
+        "Eric Schulz",
+        "Josh Tenenbaum",
+        "David K. Duvenaud",
+        "Maarten Speekenbrink",
+        "Samuel J. Gershman"
+    ],
+    "Identification and Overidentification of Linear Structural Equation Models": [
+        "Bryant Chen"
+    ],
+    "An Architecture for Deep, Hierarchical Generative Models": [
+        "Philip Bachman"
+    ],
+    "Towards Conceptual Compression": [
+        "Karol Gregor",
+        "Frederic Besse",
+        "Danilo Jimenez Rezende",
+        "Ivo Danihelka",
+        "Daan Wierstra"
+    ],
+    "Exploiting the Structure: Stochastic Gradient Methods Using Raw Clusters": [
+        "Zeyuan Allen-Zhu",
+        "Yang Yuan",
+        "Karthik Sridharan"
+    ],
+    "Consistent Kernel Mean Estimation for Functions of Random Variables": [
+        "Carl-Johann Simon-Gabriel",
+        "Adam Scibior",
+        "Ilya O. Tolstikhin",
+        "Bernhard Sch\u00f6lkopf"
+    ],
+    "Hierarchical Clustering via Spreading Metrics": [
+        "Aurko Roy",
+        "Sebastian Pokutta"
+    ],
+    "Combining Fully Convolutional and Recurrent Neural Networks for 3D Biomedical Image Segmentation": [
+        "Jianxu Chen",
+        "Lin Yang",
+        "Yizhe Zhang",
+        "Mark Alber",
+        "Danny Z. Chen"
+    ],
+    "SDP Relaxation with Randomized Rounding for Energy Disaggregation": [
+        "Kiarash Shaloudegi",
+        "Andr\u00e1s Gy\u00f6rgy",
+        "Csaba Szepesvari",
+        "Wilsun Xu"
+    ],
+    "Finite Sample Prediction and Recovery Bounds for Ordinal Embedding": [
+        "Lalit Jain",
+        "Kevin G. Jamieson",
+        "Rob Nowak"
+    ],
+    "Search Improves Label for Active Learning": [
+        "Alina Beygelzimer",
+        "Daniel J. Hsu",
+        "John Langford",
+        "Chicheng Zhang"
+    ],
+    "A Simple Practical Accelerated Method for Finite Sums": [
+        "Aaron Defazio"
+    ],
+    "Coupled Generative Adversarial Networks": [
+        "Ming-Yu Liu",
+        "Oncel Tuzel"
+    ],
+    "Minimax Estimation of Maximum Mean Discrepancy with Radial Kernels": [
+        "Ilya O. Tolstikhin",
+        "Bharath K. Sriperumbudur",
+        "Bernhard Sch\u00f6lkopf"
+    ],
+    "Using Social Dynamics to Make Individual Predictions: Variational Inference with a Stochastic Kinetic Model": [
+        "Zhen Xu",
+        "Wen Dong",
+        "Sargur N. Srihari"
+    ],
+    "Multiple-Play Bandits in the Position-Based Model": [
+        "Paul Lagr\u00e9e",
+        "Claire Vernade",
+        "Olivier Cappe"
+    ],
+    "Learning values across many orders of magnitude": [
+        "Hado P. van Hasselt",
+        "Arthur Guez",
+        "Arthur Guez",
+        "Matteo Hessel",
+        "Volodymyr Mnih",
+        "David Silver"
+    ],
+    "Attend, Infer, Repeat: Fast Scene Understanding with Generative Models": [
+        "S. M. Ali Eslami",
+        "Nicolas Heess",
+        "Theophane Weber",
+        "Yuval Tassa",
+        "David Szepesvari",
+        "koray kavukcuoglu",
+        "Geoffrey E. Hinton"
+    ],
+    "Supervised Learning with Tensor Networks": [
+        "Edwin Stoudenmire",
+        "David J. Schwab"
+    ],
+    "Structured Prediction Theory Based on Factor Graph Complexity": [
+        "Corinna Cortes",
+        "Vitaly Kuznetsov",
+        "Mehryar Mohri",
+        "Scott Yang"
+    ],
+    "The Multiple Quantile Graphical Model": [
+        "Alnur Ali",
+        "J. Zico Kolter",
+        "Ryan J. Tibshirani"
+    ],
+    "Orthogonal Random Features": [
+        "Felix Xinnan X. Yu",
+        "Ananda Theertha Suresh",
+        "Krzysztof M. Choromanski",
+        "Daniel N. Holtmann-Rice",
+        "Sanjiv Kumar"
+    ],
+    "Coevolutionary Latent Feature Processes for Continuous-Time User-Item Interactions": [
+        "Yichen Wang",
+        "Nan Du",
+        "Rakshit Trivedi",
+        "Le Song"
+    ],
+    "Convex Two-Layer Modeling with Latent Structure": [
+        "Vignesh Ganapathiraman",
+        "Xinhua Zhang",
+        "Yaoliang Yu",
+        "Junfeng Wen"
+    ],
+    "Online Convex Optimization with Unconstrained Domains and Losses": [
+        "Ashok Cutkosky",
+        "Kwabena A. Boahen"
+    ],
+    "GAP Safe Screening Rules for Sparse-Group Lasso": [
+        "Eugene Ndiaye",
+        "Olivier Fercoq",
+        "Alexandre Gramfort",
+        "Joseph Salmon"
+    ],
+    "Local Similarity-Aware Deep Feature Embedding": [
+        "Chen Huang",
+        "Chen Change Loy",
+        "Xiaoou Tang"
+    ],
+    "Following the Leader and Fast Rates in Linear Prediction: Curved Constraint Sets and Other Regularities": [
+        "Ruitong Huang",
+        "Tor Lattimore",
+        "Andr\u00e1s Gy\u00f6rgy",
+        "Csaba Szepesvari"
+    ],
+    "Learning Multiagent Communication with Backpropagation": [
+        "Sainbayar Sukhbaatar",
+        "arthur szlam",
+        "Rob Fergus"
+    ],
+    "Sub-sampled Newton Methods with Non-uniform Sampling": [
+        "Peng Xu",
+        "Jiyan Yang",
+        "Fred Roosta",
+        "Christopher R\u00e9",
+        "Michael W. Mahoney"
+    ],
+    "Examples are not enough, learn to criticize! Criticism for Interpretability": [
+        "Been Kim",
+        "Rajiv Khanna",
+        "Oluwasanmi O. Koyejo"
+    ],
+    "R-FCN: Object Detection via Region-based Fully Convolutional Networks": [
+        "Jifeng Dai",
+        "Yi Li",
+        "Kaiming He",
+        "Jian Sun"
+    ],
+    "Exploiting Tradeoffs for Exact Recovery in Heterogeneous Stochastic Block Models": [
+        "Amin Jalali",
+        "Qiyang Han",
+        "Ioana Dumitriu",
+        "Maryam Fazel"
+    ],
+    "A Powerful Generative Model Using Random Weights for the Deep Image Representation": [
+        "Kun He",
+        "Yan Wang",
+        "John Hopcroft"
+    ],
+    "Privacy Odometers and Filters: Pay-as-you-Go Composition": [
+        "Ryan M. Rogers",
+        "Aaron Roth",
+        "Jonathan Ullman",
+        "Salil Vadhan"
+    ],
+    "More Supervision, Less Computation: Statistical-Computational Tradeoffs in Weakly Supervised Learning": [
+        "Xinyang Yi",
+        "Zhaoran Wang",
+        "Zhuoran Yang",
+        "Constantine Caramanis",
+        "Han Liu"
+    ],
+    "Supervised learning through the lens of compression": [
+        "Ofir David",
+        "Shay Moran",
+        "Amir Yehudayoff"
+    ],
+    "Sparse Support Recovery with Non-smooth Loss Functions": [
+        "K\u00e9vin Degraux",
+        "Gabriel Peyr\u00e9",
+        "Jalal Fadili",
+        "Laurent Jacques"
+    ],
+    "Tractable Operations for Arithmetic Circuits of Probabilistic Models": [
+        "Yujia Shen",
+        "Arthur Choi",
+        "Adnan Darwiche"
+    ],
+    "Dual Learning for Machine Translation": [
+        "Di He",
+        "Yingce Xia",
+        "Tao Qin",
+        "Liwei Wang",
+        "Nenghai Yu",
+        "Tie-Yan Liu",
+        "Wei-Ying Ma"
+    ],
+    "Solving Random Systems of Quadratic Equations via Truncated Generalized Gradient Flow": [
+        "Gang Wang",
+        "Georgios Giannakis"
+    ],
+    "Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences": [
+        "Daniel Neil",
+        "Michael Pfeiffer",
+        "Shih-Chii Liu"
+    ],
+    "Only H is left: Near-tight Episodic PAC RL": [],
+    "Stochastic Three-Composite Convex Minimization": [
+        "Alp Yurtsever",
+        "Bang Cong Vu",
+        "Volkan Cevher"
+    ],
+    "Synthesizing the preferred inputs for neurons in neural networks via deep generator networks": [
+        "Anh Nguyen",
+        "Alexey Dosovitskiy",
+        "Jason Yosinski",
+        "Thomas Brox",
+        "Jeff Clune"
+    ],
+    "Bayesian Optimization with a Finite Budget: An Approximate Dynamic Programming Approach": [
+        "Remi Lam",
+        "Karen Willcox",
+        "David H. Wolpert"
+    ],
+    "Gaussian Process Bandit Optimisation with Multi-fidelity Evaluations": [
+        "Kirthevasan Kandasamy",
+        "Gautam Dasarathy",
+        "Junier B. Oliva",
+        "Jeff Schneider",
+        "Barnabas Poczos"
+    ],
+    "Learning Parametric Sparse Models for Image Super-Resolution": [
+        "Yongbo Li",
+        "Weisheng Dong",
+        "Xuemei Xie",
+        "GUANGMING Shi",
+        "Xin Li",
+        "Donglai Xu"
+    ],
+    "Mutual information for symmetric rank-one matrix estimation: A proof of the replica formula": [
+        "jean barbier",
+        "Mohamad Dia",
+        "Nicolas Macris",
+        "Florent Krzakala",
+        "Thibault Lesieur",
+        "Lenka Zdeborov\u00e1"
+    ],
+    "Large Margin Discriminant Dimensionality Reduction in Prediction Space": [
+        "Mohammad Saberian",
+        "Jose Costa Pereira",
+        "Can Xu",
+        "Jian Yang",
+        "Nuno Nvasconcelos"
+    ],
+    "Fast learning rates with heavy-tailed losses": [
+        "Vu C. Dinh",
+        "Lam S. Ho",
+        "Binh Nguyen",
+        "Duy Nguyen"
+    ],
+    "Dynamic matrix recovery from incomplete observations under an exact low-rank constraint": [
+        "Liangbei Xu",
+        "Mark Davenport"
+    ],
+    "Tight Complexity Bounds for Optimizing Composite Objectives": [
+        "Blake E. Woodworth",
+        "Nati Srebro"
+    ],
+    "A forward model at Purkinje cell synapses facilitates cerebellar anticipatory control": [
+        "Ivan Herreros",
+        "Xerxes Arsiwalla",
+        "Paul Verschure"
+    ],
+    "Verification Based Solution for Structured MAB Problems": [
+        "Zohar S. Karnin"
+    ],
+    "SURGE: Surface Regularized Geometry Estimation from a Single Image": [
+        "Peng Wang",
+        "Xiaohui Shen",
+        "Bryan Russell",
+        "Scott Cohen",
+        "Brian Price",
+        "Alan L. Yuille"
+    ],
+    "CliqueCNN: Deep Unsupervised Exemplar Learning": [
+        "Miguel A. Bautista",
+        "Artsiom Sanakoyeu",
+        "Ekaterina Tikhoncheva",
+        "Bjorn Ommer"
+    ],
+    "Computing and maximizing influence in linear threshold and triggering models": [
+        "Justin T. Khim",
+        "Varun Jog",
+        "Po-Ling Loh"
+    ],
+    "Data Programming: Creating Large Training Sets, Quickly": [
+        "Alexander J. Ratner",
+        "Christopher M. De Sa",
+        "Sen Wu",
+        "Daniel Selsam",
+        "Christopher R\u00e9"
+    ],
+    "Flexible Models for Microclustering with Application to Entity Resolution": [
+        "Brenda Betancourt",
+        "Giacomo Zanella",
+        "Jeffrey W. Miller",
+        "Hanna Wallach",
+        "Abbas Zaidi",
+        "Rebecca C. Steorts"
+    ],
+    "Blind Regression: Nonparametric Regression for Latent Variable Models via Collaborative Filtering": [
+        "Dogyoon Song",
+        "Christina E. Lee",
+        "Yihua Li",
+        "Devavrat Shah"
+    ],
+    "An ensemble diversity approach to supervised binary hashing": [
+        "Miguel A. Carreira-Perpinan",
+        "Ramin Raziperchikolaei"
+    ],
+    "Learning Influence Functions from Incomplete Observations": [
+        "Xinran He",
+        "Ke Xu",
+        "David Kempe",
+        "Yan Liu"
+    ],
+    "Backprop KF: Learning Discriminative Deterministic State Estimators": [
+        "Tuomas Haarnoja",
+        "Anurag Ajay",
+        "Sergey Levine",
+        "Pieter Abbeel"
+    ],
+    "On the Recursive Teaching Dimension of VC Classes": [
+        "Xi Chen",
+        "Xi Chen",
+        "Yu Cheng",
+        "Bo Tang"
+    ],
+    "Generalized Correspondence-LDA Models (GC-LDA) for Identifying Functional Regions in the Brain": [
+        "Timothy Rubin",
+        "Oluwasanmi O. Koyejo",
+        "Michael N. Jones",
+        "Tal Yarkoni"
+    ],
+    "Fast \u03b5-free Inference of Simulation Models with Bayesian Conditional Density Estimation": [
+        "George Papamakarios",
+        "Iain Murray"
+    ],
+    "Ladder Variational Autoencoders": [
+        "Casper Kaae S\u00f8nderby",
+        "Tapani Raiko",
+        "Lars Maal\u00f8e",
+        "S\u00f8ren Kaae S\u00f8nderby",
+        "Ole Winther"
+    ],
+    "Improved Deep Metric Learning with Multi-class N-pair Loss Objective": [
+        "Kihyuk Sohn"
+    ],
+    "Learning Sparse Gaussian Graphical Models with Overlapping Blocks": [
+        "Mohammad Javad Hosseini",
+        "Su-In Lee"
+    ],
+    "Probabilistic Inference with Generating Functions for Poisson Latent Variable Models": [
+        "Kevin Winner",
+        "Daniel R. Sheldon"
+    ],
+    "Achieving the KS threshold in the general stochastic block model with linearized acyclic belief propagation": [
+        "Emmanuel Abbe",
+        "Colin Sandon"
+    ],
+    "A Unified Approach for Learning the Parameters of Sum-Product Networks": [
+        "Han Zhao",
+        "Pascal Poupart",
+        "Geoffrey J. Gordon"
+    ],
+    "The Multiscale Laplacian Graph Kernel": [
+        "Risi Kondor",
+        "Horace Pan"
+    ],
+    "Learning the Number of Neurons in Deep Networks": [
+        "Jose M. Alvarez",
+        "Mathieu Salzmann"
+    ],
+    "Deep Alternative Neural Network: Exploring Contexts as Early as Possible for Action Recognition": [
+        "Jinzhuo Wang",
+        "Wenmin Wang",
+        "xiongtao Chen",
+        "Ronggang Wang",
+        "Wen Gao"
+    ],
+    "Online ICA: Understanding Global Dynamics of Nonconvex Optimization via Diffusion Processes": [
+        "Chris Junchi Li",
+        "Zhaoran Wang",
+        "Han Liu"
+    ],
+    "Spatio-Temporal Hilbert Maps for Continuous Occupancy Representation in Dynamic Environments": [
+        "Ransalu Senanayake",
+        "Lionel Ott",
+        "Simon O'Callaghan",
+        "Fabio T. Ramos"
+    ],
+    "CRF-CNN: Modeling Structured Information in Human Pose Estimation": [
+        "Xiao Chu",
+        "Wanli Ouyang",
+        "hongsheng Li",
+        "Xiaogang Wang"
+    ],
+    "Bayesian latent structure discovery from multi-neuron recordings": [
+        "Scott Linderman",
+        "Ryan P. Adams",
+        "Jonathan W. Pillow"
+    ],
+    "Latent Attention For If-Then Program Synthesis": [
+        "Chang Liu",
+        "Xinyun Chen",
+        "Eui Chul Shin",
+        "Mingcheng Chen",
+        "Dawn Song"
+    ],
+    "Understanding Probabilistic Sparse Gaussian Process Approximations": [
+        "Matthias Bauer",
+        "Mark van der Wilk",
+        "Carl Edward Rasmussen"
+    ],
+    "Wasserstein Training of Restricted Boltzmann Machines": [
+        "Gr\u00e9goire Montavon",
+        "Klaus-Robert M\u00fcller",
+        "Marco Cuturi"
+    ],
+    "A primal-dual method for conic constrained distributed optimization problems": [
+        "Necdet Serhat Aybat",
+        "Erfan Yazdandoost Hamedani"
+    ],
+    "Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations": [
+        "Behnam Neyshabur",
+        "Yuhuai Wu",
+        "Russ R. Salakhutdinov",
+        "Nati Srebro"
+    ],
+    "Communication-Optimal Distributed Clustering": [
+        "Jiecao Chen",
+        "He Sun",
+        "David Woodruff",
+        "Qin Zhang"
+    ],
+    "Boosting with Abstention": [
+        "Corinna Cortes",
+        "Giulia DeSalvo",
+        "Mehryar Mohri"
+    ],
+    "Linear dynamical neural population models through nonlinear embeddings": [
+        "Yuanjun Gao",
+        "Evan W. Archer",
+        "Liam Paninski",
+        "John P. Cunningham"
+    ],
+    "R\u00e9nyi Divergence Variational Inference": [
+        "Yingzhen Li",
+        "Richard E. Turner"
+    ],
+    "Stochastic Gradient Geodesic MCMC Methods": [
+        "Chang Liu",
+        "Jun Zhu",
+        "Yang Song"
+    ],
+    "A posteriori error bounds for joint matrix decomposition problems": [
+        "Nicolo Colombo",
+        "Nikos Vlassis"
+    ],
+    "Global Analysis of Expectation Maximization for Mixtures of Two Gaussians": [
+        "Ji Xu",
+        "Daniel J. Hsu",
+        "Arian Maleki"
+    ],
+    "Stochastic Structured Prediction under Bandit Feedback": [
+        "Artem Sokolov",
+        "Julia Kreutzer",
+        "Stefan Riezler",
+        "Christopher Lo"
+    ],
+    "Estimating the class prior and posterior from noisy positives and unlabeled data": [
+        "Shantanu Jain",
+        "Martha White",
+        "Predrag Radivojac"
+    ],
+    "A Minimax Approach to Supervised Learning": [
+        "Farzan Farnia",
+        "David Tse"
+    ],
+    "Blazing the trails before beating the path: Sample-efficient Monte-Carlo planning": [
+        "Jean-Bastien Grill",
+        "Michal Valko",
+        "Remi Munos"
+    ],
+    "Scaling Factorial Hidden Markov Models: Stochastic Variational Inference without Messages": [
+        "Yin Cheng Ng",
+        "Pawel M. Chilinski",
+        "Ricardo Silva"
+    ],
+    "Improved Dropout for Shallow and Deep Learning": [
+        "Zhe Li",
+        "Boqing Gong",
+        "Tianbao Yang"
+    ],
+    "Clustering Signed Networks with the Geometric Mean of Laplacians": [
+        "Pedro Mercado",
+        "Francesco Tudisco",
+        "Matthias Hein"
+    ],
+    "Consistent Estimation of Functions of Data Missing Non-Monotonically and Not at Random": [
+        "Ilya Shpitser"
+    ],
+    "Discriminative Gaifman Models": [
+        "Mathias Niepert"
+    ],
+    "Selective inference for group-sparse linear models": [
+        "Fan Yang",
+        "Rina Foygel Barber",
+        "Prateek Jain",
+        "John Lafferty"
+    ],
+    "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets": [
+        "Xi Chen",
+        "Yan Duan",
+        "Rein Houthooft",
+        "John Schulman",
+        "Ilya Sutskever",
+        "Pieter Abbeel"
+    ],
+    "Automated scalable segmentation of neurons from multispectral images": [
+        "Uygar S\u00fcmb\u00fcl",
+        "Douglas Roossien",
+        "Dawen Cai",
+        "Fei Chen",
+        "Nicholas Barry",
+        "John P. Cunningham",
+        "Edward Boyden",
+        "Liam Paninski"
+    ],
+    "Robustness of classifiers: from adversarial to random noise": [
+        "Alhussein Fawzi",
+        "Seyed-Mohsen Moosavi-Dezfooli",
+        "Pascal Frossard"
+    ],
+    "Composing graphical models with neural networks for structured representations and fast inference": [
+        "Matthew J. Johnson",
+        "David K. Duvenaud",
+        "Alex Wiltschko",
+        "Ryan P. Adams",
+        "Sandeep R. Datta"
+    ],
+    "SoundNet: Learning Sound Representations from Unlabeled Video": [
+        "Yusuf Aytar",
+        "Carl Vondrick",
+        "Antonio Torralba"
+    ],
+    "Dual Decomposed Learning with Factorwise Oracle for Structural SVM of Large Output Domain": [
+        "Ian En-Hsu Yen",
+        "Xiangru Huang",
+        "Kai Zhong",
+        "Ruohan Zhang",
+        "Pradeep K. Ravikumar",
+        "Inderjit S. Dhillon"
+    ],
+    "Deep Learning for Predicting Human Strategic Behavior": [
+        "Jason S. Hartford",
+        "James R. Wright",
+        "Kevin Leyton-Brown"
+    ],
+    "Online and Differentially-Private Tensor Decomposition": [
+        "Yining Wang",
+        "Anima Anandkumar"
+    ],
+    "Multivariate tests of association based on univariate tests": [
+        "Ruth Heller",
+        "Yair Heller"
+    ],
+    "Variational Information Maximization for Feature Selection": [
+        "Shuyang Gao",
+        "Greg Ver Steeg",
+        "Aram Galstyan"
+    ],
+    "Learning Bound for Parameter Transfer Learning": [
+        "Wataru Kumagai"
+    ],
+    "Matrix Completion has No Spurious Local Minimum": [
+        "Rong Ge",
+        "Jason D. Lee",
+        "Tengyu Ma"
+    ],
+    "Deep Submodular Functions: Definitions and Learning": [
+        "Brian W. Dolhansky",
+        "Jeff A. Bilmes"
+    ],
+    "Adaptive optimal training of animal behavior": [
+        "Ji Hyun Bak",
+        "Jung Yoon Choi",
+        "Athena Akrami",
+        "Ilana Witten",
+        "Jonathan W. Pillow"
+    ],
+    "Structured Matrix Recovery via the Generalized Dantzig Selector": [
+        "Sheng Chen",
+        "Arindam Banerjee"
+    ],
+    "Robust k-means: a Theoretical Revisit": [
+        "ALEXANDROS GEORGOGIANNIS"
+    ],
+    "Tree-Structured Reinforcement Learning for Sequential Object Localization": [
+        "Zequn Jie",
+        "Xiaodan Liang",
+        "Jiashi Feng",
+        "Xiaojie Jin",
+        "Wen Lu",
+        "Shuicheng Yan"
+    ],
+    "One-vs-Each Approximation to Softmax for Scalable Estimation of Probabilities": [
+        "Michalis Titsias RC AUEB"
+    ],
+    "Poisson-Gamma dynamical systems": [
+        "Aaron Schein",
+        "Hanna Wallach",
+        "Mingyuan Zhou"
+    ],
+    "Convergence guarantees for kernel-based quadrature rules in misspecified settings": [
+        "Motonobu Kanagawa",
+        "Bharath K. Sriperumbudur",
+        "Kenji Fukumizu"
+    ],
+    "Maximization of Approximately Submodular Functions": [
+        "Thibaut Horel",
+        "Yaron Singer"
+    ],
+    "Causal meets Submodular: Subset Selection with Directed Information": [
+        "Yuxun Zhou",
+        "Costas J. Spanos"
+    ],
+    "Linear Feature Encoding for Reinforcement Learning": [
+        "Zhao Song",
+        "Ronald E. Parr",
+        "Xuejun Liao",
+        "Lawrence Carin"
+    ],
+    "Mixed Linear Regression with Multiple Components": [
+        "Kai Zhong",
+        "Prateek Jain",
+        "Inderjit S. Dhillon"
+    ],
+    "Unsupervised Learning of Spoken Language with Visual Context": [
+        "David Harwath",
+        "Antonio Torralba",
+        "James Glass"
+    ],
+    "Crowdsourced Clustering: Querying Edges vs Triangles": [
+        "Ramya Korlakai Vinayak",
+        "Babak Hassibi"
+    ],
+    "Learning feed-forward one-shot learners": [
+        "Luca Bertinetto",
+        "Jo\u00e3o F. Henriques",
+        "Jack Valmadre",
+        "Philip Torr",
+        "Andrea Vedaldi"
+    ],
+    "Reshaped Wirtinger Flow for Solving Quadratic System of Equations": [
+        "Huishuai Zhang",
+        "Yingbin Liang"
+    ],
+    "Data Poisoning Attacks on Factorization-Based Collaborative Filtering": [
+        "Bo Li",
+        "Yining Wang",
+        "Aarti Singh",
+        "Yevgeniy Vorobeychik"
+    ],
+    "PAC-Bayesian Theory Meets Bayesian Inference": [
+        "Pascal Germain",
+        "Francis Bach",
+        "Alexandre Lacoste",
+        "Simon Lacoste-Julien"
+    ],
+    "Fast Mixing Markov Chains for Strongly Rayleigh Measures, DPPs, and Constrained Sampling": [
+        "Chengtao Li",
+        "Suvrit Sra",
+        "Stefanie Jegelka"
+    ],
+    "Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction": [
+        "Hsiang-Fu Yu",
+        "Nikhil Rao",
+        "Inderjit S. Dhillon"
+    ],
+    "FPNN: Field Probing Neural Networks for 3D Data": [
+        "Yangyan Li",
+        "Soeren Pirk",
+        "Hao Su",
+        "Charles R. Qi",
+        "Leonidas J. Guibas"
+    ],
+    "Object based Scene Representations using Fisher Scores of Local Subspace Projections": [
+        "Mandar D. Dixit",
+        "Nuno Vasconcelos"
+    ],
+    "Architectural Complexity Measures of Recurrent Neural Networks": [
+        "Saizheng Zhang",
+        "Yuhuai Wu",
+        "Tong Che",
+        "Zhouhan Lin",
+        "Roland Memisevic",
+        "Russ R. Salakhutdinov",
+        "Yoshua Bengio"
+    ],
+    "Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models": [
+        "Marc Vuffray",
+        "Sidhant Misra",
+        "Andrey Lokhov",
+        "Michael Chertkov"
+    ],
+    "Community Detection on Evolving Graphs": [
+        "Aris Anagnostopoulos",
+        "Jakub \u0141\u0105cki",
+        "Silvio Lattanzi",
+        "Stefano Leonardi",
+        "Mohammad Mahdian"
+    ],
+    "Preference Completion from Partial Rankings": [
+        "Suriya Gunasekar",
+        "Oluwasanmi O. Koyejo",
+        "Joydeep Ghosh"
+    ],
+    "\u201cCongruent\u201d and \u201cOpposite\u201d Neurons: Sisters for Multisensory Integration and Segregation": [
+        "Wen-Hao Zhang",
+        "He Wang",
+        "K. Y. Michael Wong",
+        "Si Wu"
+    ],
+    "A Consistent Regularization Approach for Structured Prediction": [
+        "Carlo Ciliberto",
+        "Lorenzo Rosasco",
+        "Alessandro Rudi"
+    ],
+    "Fast recovery from a union of subspaces": [
+        "Chinmay Hegde",
+        "Piotr Indyk",
+        "Ludwig Schmidt"
+    ],
+    "Improved Techniques for Training GANs": [
+        "Tim Salimans",
+        "Ian Goodfellow",
+        "Wojciech Zaremba",
+        "Vicki Cheung",
+        "Alec Radford",
+        "Xi Chen",
+        "Xi Chen"
+    ],
+    "Coordinate-wise Power Method": [
+        "Qi Lei",
+        "Kai Zhong",
+        "Inderjit S. Dhillon"
+    ],
+    "On Mixtures of Markov Chains": [
+        "Rishi Gupta",
+        "Ravi Kumar",
+        "Sergei Vassilvitskii"
+    ],
+    "Near-Optimal Smoothing of Structured Conditional Probability Matrices": [
+        "Moein Falahatgar",
+        "Mesrob I. Ohannessian",
+        "Alon Orlitsky"
+    ],
+    "Dynamic Filter Networks": [
+        "Xu Jia",
+        "Bert De Brabandere",
+        "Tinne Tuytelaars",
+        "Luc V. Gool"
+    ],
+    "Estimating the Size of a Large Network and its Communities from a Random Sample": [
+        "Lin Chen",
+        "Amin Karbasi",
+        "Forrest W. Crawford"
+    ],
+    "Generalization of ERM in Stochastic Convex Optimization: The Dimension Strikes Back": [
+        "Vitaly Feldman"
+    ],
+    "Nested Mini-Batch K-Means": [
+        "James Newling",
+        "Fran\u00e7ois Fleuret"
+    ],
+    "Infinite Hidden Semi-Markov Modulated Interaction Point Process": [
+        "matt zhang",
+        "Peng Lin",
+        "Peng Lin",
+        "Ting Guo",
+        "Yang Wang",
+        "Yang Wang",
+        "Fang Chen"
+    ],
+    "A Credit Assignment Compiler for Joint Prediction": [
+        "Kai-Wei Chang",
+        "He He",
+        "Stephane Ross",
+        "Hal Daume III",
+        "John Langford"
+    ],
+    "Deep Exploration via Bootstrapped DQN": [
+        "Ian Osband",
+        "Charles Blundell",
+        "Alexander Pritzel",
+        "Benjamin Van Roy"
+    ],
+    "Estimating Nonlinear Neural Response Functions using GP Priors and Kronecker Methods": [
+        "Cristina Savin",
+        "Gasper Tkacik"
+    ],
+    "Structured Sparse Regression via Greedy Hard Thresholding": [
+        "Prateek Jain",
+        "Nikhil Rao",
+        "Inderjit S. Dhillon"
+    ],
+    "A Multi-Batch L-BFGS Method for Machine Learning": [
+        "Albert S. Berahas",
+        "Jorge Nocedal",
+        "Martin Takac"
+    ],
+    "Cooperative Graphical Models": [
+        "Josip Djolonga",
+        "Stefanie Jegelka",
+        "Sebastian Tschiatschek",
+        "Andreas Krause"
+    ],
+    "What Makes Objects Similar: A Unified Multi-Metric Learning Approach": [
+        "Han-Jia Ye",
+        "De-Chuan Zhan",
+        "Xue-Min Si",
+        "Yuan Jiang",
+        "Zhi-Hua Zhou"
+    ],
+    "Matching Networks for One Shot Learning": [
+        "Oriol Vinyals",
+        "Charles Blundell",
+        "Timothy Lillicrap",
+        "koray kavukcuoglu",
+        "Daan Wierstra"
+    ],
+    "Gradient-based Sampling: An Adaptive Importance Sampling for Least-squares": [
+        "Rong Zhu"
+    ],
+    "Accelerating Stochastic Composition Optimization": [
+        "Mengdi Wang",
+        "Ji Liu",
+        "Ethan Fang"
+    ],
+    "Variational Inference in Mixed Probabilistic Submodular Models": [
+        "Josip Djolonga",
+        "Sebastian Tschiatschek",
+        "Andreas Krause"
+    ],
+    "The Limits of Learning with Missing Data": [
+        "Brian Bullins",
+        "Elad Hazan",
+        "Tomer Koren"
+    ],
+    "Clustering with Same-Cluster Queries": [
+        "Hassan Ashtiani",
+        "Shrinu Kushagra",
+        "Shai Ben-David"
+    ],
+    "Deconvolving Feedback Loops in Recommender Systems": [
+        "Ayan Sinha",
+        "David F. Gleich",
+        "Karthik Ramani"
+    ],
+    "Recovery Guarantee of Non-negative Matrix Factorization  via Alternating Updates": [
+        "Yuanzhi Li",
+        "Yingyu Liang",
+        "Andrej Risteski"
+    ],
+    "Threshold Learning for Optimal Decision Making": [
+        "Nathan F. Lepora"
+    ],
+    "Joint M-Best-Diverse Labelings as a Parametric Submodular Minimization": [
+        "Alexander Kirillov",
+        "Alexander Shekhovtsov",
+        "Carsten Rother",
+        "Bogdan Savchynskyy"
+    ],
+    "Confusions over Time: An Interpretable Bayesian Model to Characterize Trends in Decision Making": [
+        "Himabindu Lakkaraju",
+        "Jure Leskovec"
+    ],
+    "Measuring Neural Net Robustness with Constraints": [
+        "Osbert Bastani",
+        "Yani Ioannou",
+        "Leonidas Lampropoulos",
+        "Dimitrios Vytiniotis",
+        "Aditya Nori",
+        "Antonio Criminisi"
+    ],
+    "The Power of Adaptivity in Identifying Statistical Alternatives": [
+        "Kevin G. Jamieson",
+        "Daniel Haas",
+        "Benjamin Recht"
+    ],
+    "Adaptive Skills Adaptive Partitions (ASAP)": [
+        "Daniel J. Mankowitz",
+        "Timothy A. Mann",
+        "Shie Mannor"
+    ],
+    "Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds": [
+        "Hongyi Zhang",
+        "Sashank J. Reddi",
+        "Suvrit Sra"
+    ],
+    "Hypothesis Testing in Unsupervised Domain Adaptation with Applications in Alzheimer's Disease": [
+        "Hao Zhou",
+        "Vamsi K. Ithapu",
+        "Sathya Narayanan Ravi",
+        "Vikas Singh",
+        "Grace Wahba",
+        "Sterling C. Johnson"
+    ],
+    "Review Networks for Caption Generation": [
+        "Zhilin Yang",
+        "Ye Yuan",
+        "Yuexin Wu",
+        "William W. Cohen",
+        "Russ R. Salakhutdinov"
+    ],
+    "Distributed Flexible Nonlinear Tensor Factorization": [
+        "Shandian Zhe",
+        "Kai Zhang",
+        "Pengyuan Wang",
+        "Kuang-chih Lee",
+        "Zenglin Xu",
+        "Yuan Qi",
+        "Zoubin Ghahramani"
+    ],
+    "Safe Policy Improvement by Minimizing Robust Baseline Regret": [
+        "Mohammad Ghavamzadeh",
+        "Marek Petrik",
+        "Yinlam Chow"
+    ],
+    "Safe Exploration in Finite Markov Decision Processes with Gaussian Processes": [
+        "Matteo Turchetta",
+        "Felix Berkenkamp",
+        "Andreas Krause"
+    ],
+    "Multimodal Residual Learning for Visual QA": [
+        "Jin-Hwa Kim",
+        "Sang-Woo Lee",
+        "Donghyun Kwak",
+        "Min-Oh Heo",
+        "Jeonghee Kim",
+        "Jung-Woo Ha",
+        "Byoung-Tak Zhang"
+    ],
+    "Variance Reduction in Stochastic Gradient Langevin Dynamics": [
+        "Kumar Avinava Dubey",
+        "Sashank J. Reddi",
+        "Sinead A. Williamson",
+        "Barnabas Poczos",
+        "Alexander J. Smola",
+        "Eric P. Xing"
+    ],
+    "On Regularizing Rademacher Observation Losses": [
+        "Richard Nock"
+    ],
+    "A scalable end-to-end Gaussian process adapter for irregularly sampled time series classification": [
+        "Steven Cheng-Xian Li",
+        "Benjamin M. Marlin"
+    ],
+    "Learning User Perceived Clusters with Feature-Level Supervision": [
+        "Ting-Yu Cheng",
+        "Guiguan Lin",
+        "xinyang gong",
+        "Kang-Jun Liu",
+        "Shan-Hung (Brandon) Wu"
+    ],
+    "Equality of Opportunity in Supervised Learning": [
+        "Moritz Hardt",
+        "Eric Price",
+        "Eric Price",
+        "Nati Srebro"
+    ],
+    "Kernel Observers: Systems-Theoretic Modeling and Inference of Spatiotemporally Evolving Processes": [
+        "Hassan A. Kingravi",
+        "Harshal R. Maske",
+        "Girish Chowdhary"
+    ],
+    "Hierarchical Question-Image Co-Attention for Visual Question Answering": [
+        "Jiasen Lu",
+        "Jianwei Yang",
+        "Dhruv Batra",
+        "Devi Parikh"
+    ],
+    "Double Thompson Sampling for Dueling Bandits": [
+        "Huasen Wu",
+        "Xin Liu"
+    ],
+    "A state-space model of cross-region dynamic connectivity in MEG/EEG": [
+        "Ying Yang",
+        "Elissa Aminoff",
+        "Michael Tarr",
+        "Robert E. Kass"
+    ],
+    "Using Fast Weights to Attend to the Recent Past": [
+        "Jimmy Ba",
+        "Geoffrey E. Hinton",
+        "Volodymyr Mnih",
+        "Joel Z. Leibo",
+        "Catalin Ionescu"
+    ],
+    "High-Rank Matrix Completion and Clustering under Self-Expressive Models": [
+        "Ehsan Elhamifar"
+    ],
+    "Adaptive Newton Method for Empirical Risk Minimization to Statistical Accuracy": [
+        "Aryan Mokhtari",
+        "Hadi Daneshmand",
+        "Aurelien Lucchi",
+        "Thomas Hofmann",
+        "Alejandro Ribeiro"
+    ],
+    "Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale": [
+        "Firas Abuzaid",
+        "Joseph K. Bradley",
+        "Feynman T. Liang",
+        "Andrew Feng",
+        "Lee Yang",
+        "Matei Zaharia",
+        "Ameet S. Talwalkar"
+    ],
+    "Adaptive Maximization of Pointwise Submodular Functions With Budget Constraint": [
+        "Nguyen Cuong",
+        "Huan Xu"
+    ],
+    "Guided Policy Search via Approximate Mirror Descent": [
+        "William H. Montgomery",
+        "Sergey Levine"
+    ],
+    "On Graph Reconstruction via Empirical Risk Minimization: Fast Learning Rates and Scalability": [
+        "Guillaume Papa",
+        "Aur\u00e9lien Bellet",
+        "Stephan Cl\u00e9men\u00e7on"
+    ],
+    "Geometric Dirichlet Means Algorithm for topic inference": [
+        "Mikhail Yurochkin",
+        "XuanLong Nguyen"
+    ],
+    "Learned Region Sparsity and Diversity Also Predicts Visual Attention": [
+        "Zijun Wei",
+        "Hossein Adeli",
+        "Minh Hoai Nguyen",
+        "Greg Zelinsky",
+        "Dimitris Samaras"
+    ],
+    "Deep Learning Models of the Retinal Response to Natural Scenes": [
+        "Lane McIntosh",
+        "Niru Maheswaranathan",
+        "Aran Nayebi",
+        "Surya Ganguli",
+        "Stephen Baccus"
+    ],
+    "Batched Gaussian Process Bandit Optimization via Determinantal Point Processes": [
+        "Tarun Kathuria",
+        "Amit Deshpande",
+        "Pushmeet Kohli"
+    ],
+    "Inference by Reparameterization in Neural Population Codes": [
+        "Rajkumar Vasudeva Raju",
+        "Zachary Pitkow"
+    ],
+    "Blind Attacks on Machine Learners": [
+        "Alex Beatson",
+        "Zhaoran Wang",
+        "Han Liu"
+    ],
+    "Learning Deep Parsimonious Representations": [
+        "Renjie Liao",
+        "Alex Schwing",
+        "Richard Zemel",
+        "Raquel Urtasun"
+    ],
+    "Scalable Adaptive Stochastic Optimization Using Random Projections": [
+        "Gabriel Krummenacher",
+        "Brian McWilliams",
+        "Yannic Kilcher",
+        "Joachim M. Buhmann",
+        "Nicolai Meinshausen"
+    ],
+    "Graphons, mergeons, and so on!": [
+        "Justin Eldridge",
+        "Mikhail Belkin",
+        "Yusu Wang"
+    ],
+    "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings": [
+        "Tolga Bolukbasi",
+        "Kai-Wei Chang",
+        "James Y. Zou",
+        "Venkatesh Saligrama",
+        "Adam T. Kalai"
+    ],
+    "Memory-Efficient Backpropagation Through Time": [
+        "Audrunas Gruslys",
+        "Remi Munos",
+        "Ivo Danihelka",
+        "Marc Lanctot",
+        "Alex Graves"
+    ],
+    "Solving Marginal MAP Problems with NP Oracles and Parity Constraints": [
+        "Yexiang Xue",
+        "Zhiyuan Li",
+        "Stefano Ermon",
+        "Carla P. Gomes",
+        "Bart Selman"
+    ],
+    "Differential Privacy without Sensitivity": [
+        "Kentaro Minami",
+        "HItomi Arai",
+        "Issei Sato",
+        "Hiroshi Nakagawa"
+    ],
+    "Adaptive Smoothed Online Multi-Task Learning": [
+        "Keerthiram Murugesan",
+        "Hanxiao Liu",
+        "Jaime Carbonell",
+        "Yiming Yang"
+    ],
+    "Efficient and Robust Spiking Neural Circuit for Navigation Inspired by Echolocating Bats": [
+        "Pulkit Tandon",
+        "Yash H. Malviya",
+        "Bipin Rajendran"
+    ],
+    "Optimal Cluster Recovery in the Labeled Stochastic Block Model": [
+        "Se-Young Yun",
+        "Alexandre Proutiere"
+    ],
+    "Relevant sparse codes with variational information bottleneck": [
+        "Matthew Chalk",
+        "Olivier Marre",
+        "Gasper Tkacik"
+    ],
+    "Learning What and Where to Draw": [
+        "Scott E. Reed",
+        "Zeynep Akata",
+        "Santosh Mohan",
+        "Samuel Tenka",
+        "Bernt Schiele",
+        "Honglak Lee"
+    ],
+    "A Bio-inspired Redundant Sensing Architecture": [
+        "Anh Tuan Nguyen",
+        "Jian Xu",
+        "Zhi Yang"
+    ],
+    "Bayesian Optimization with Robust Bayesian Neural Networks": [
+        "Jost Tobias Springenberg",
+        "Aaron Klein",
+        "Stefan Falkner",
+        "Frank Hutter"
+    ],
+    "Statistical Inference for Cluster Trees": [
+        "Jisu KIM",
+        "Yen-Chi Chen",
+        "Sivaraman Balakrishnan",
+        "Alessandro Rinaldo",
+        "Larry Wasserman"
+    ],
+    "Combinatorial Multi-Armed Bandit with General Reward Functions": [
+        "Wei Chen",
+        "Wei Hu",
+        "Fu Li",
+        "Jian Li",
+        "Yu Liu",
+        "Pinyan Lu"
+    ],
+    "Learning Sensor Multiplexing Design through Back-propagation": [
+        "Ayan Chakrabarti"
+    ],
+    "Short-Dot: Computing Large Linear Transforms Distributedly Using Coded Short Dot Products": [
+        "Sanghamitra Dutta",
+        "Viveck Cadambe",
+        "Pulkit Grover"
+    ],
+    "SEBOOST - Boosting Stochastic Learning Using Subspace Optimization Techniques": [
+        "Elad Richardson",
+        "Rom Herskovitz",
+        "Boris Ginsburg",
+        "Michael Zibulevsky"
+    ],
+    "VIME: Variational Information Maximizing Exploration": [
+        "Rein Houthooft",
+        "Xi Chen",
+        "Xi Chen",
+        "Yan Duan",
+        "John Schulman",
+        "Filip De Turck",
+        "Pieter Abbeel"
+    ],
+    "Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity": [
+        "Amit Daniely",
+        "Roy Frostig",
+        "Yoram Singer"
+    ],
+    "Unsupervised Domain Adaptation with Residual Transfer Networks": [
+        "Mingsheng Long",
+        "Han Zhu",
+        "Jianmin Wang",
+        "Michael I. Jordan"
+    ],
+    "Stochastic Gradient MCMC with Stale Gradients": [
+        "Changyou Chen",
+        "Nan Ding",
+        "Chunyuan Li",
+        "Yizhe Zhang",
+        "Lawrence Carin"
+    ],
+    "Efficient Nonparametric Smoothness Estimation": [
+        "Shashank Singh",
+        "Simon S. Du",
+        "Barnabas Poczos"
+    ],
+    "Adversarial Multiclass Classification: A Risk Minimization Perspective": [
+        "Rizal Fathony",
+        "Anqi Liu",
+        "Kaiser Asif",
+        "Brian Ziebart"
+    ],
+    "Long-term Causal Effects via Behavioral Game Theory": [
+        "Panagiotis Toulis",
+        "David C. Parkes"
+    ],
+    "Sampling for Bayesian Program Learning": [
+        "Kevin Ellis",
+        "Armando Solar-Lezama",
+        "Josh Tenenbaum"
+    ],
+    "Unifying Count-Based Exploration and Intrinsic Motivation": [
+        "Marc Bellemare",
+        "Sriram Srinivasan",
+        "Georg Ostrovski",
+        "Tom Schaul",
+        "David Saxton",
+        "Remi Munos"
+    ],
+    "Learning HMMs with Nonparametric Emissions via Spectral Decompositions of Continuous Matrices": [
+        "Kirthevasan Kandasamy",
+        "Maruan Al-Shedivat",
+        "Eric P. Xing"
+    ],
+    "Observational-Interventional Priors for Dose-Response Learning": [
+        "Ricardo Silva"
+    ],
+    "Improved Error Bounds for Tree Representations of Metric Spaces": [
+        "Samir Chowdhury",
+        "Facundo M\u00e9moli",
+        "Zane T. Smith"
+    ],
+    "A Bayesian method for reducing bias in neural representational similarity analysis": [
+        "Mingbo Cai",
+        "Nicolas W. Schuck",
+        "Jonathan W. Pillow",
+        "Yael Niv"
+    ],
+    "Multistage Campaigning in Social Networks": [
+        "Mehrdad Farajtabar",
+        "Xiaojing Ye",
+        "Sahar Harati",
+        "Le Song",
+        "Hongyuan Zha"
+    ],
+    "Conditional Image Generation with PixelCNN Decoders": [
+        "Aaron van den Oord",
+        "Nal Kalchbrenner",
+        "Lasse Espeholt",
+        "koray kavukcuoglu",
+        "Oriol Vinyals",
+        "Alex Graves"
+    ],
+    "Global Optimality of Local Search for Low Rank Matrix Recovery": [
+        "Srinadh Bhojanapalli",
+        "Behnam Neyshabur",
+        "Nati Srebro"
+    ],
+    "Tensor Switching Networks": [
+        "Chuan-Yung Tsai",
+        "Andrew M. Saxe",
+        "Andrew M. Saxe",
+        "David Cox"
+    ],
+    "Optimistic Bandit Convex Optimization": [
+        "Scott Yang",
+        "Mehryar Mohri"
+    ],
+    "Interpretable Nonlinear Dynamic Modeling of Neural Trajectories": [
+        "Yuan Zhao",
+        "Il Memming Park"
+    ],
+    "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm": [
+        "Qiang Liu",
+        "Dilin Wang"
+    ],
+    "Learning in Games: Robustness of Fast Convergence": [
+        "Dylan J. Foster",
+        "Zhiyuan Li",
+        "Thodoris Lykouris",
+        "Karthik Sridharan",
+        "Eva Tardos"
+    ],
+    "Causal Bandits: Learning Good Interventions via Causal Inference": [
+        "Finnian Lattimore",
+        "Tor Lattimore",
+        "Mark D. Reid"
+    ],
+    "Minimax Optimal Alternating Minimization for Kernel Nonparametric Tensor Learning": [
+        "Taiji Suzuki",
+        "Heishiro Kanagawa",
+        "Hayato Kobayashi",
+        "Nobuyuki Shimizu",
+        "Yukihiro Tagami"
+    ],
+    "Universal Correspondence Network": [
+        "Christopher B. Choy",
+        "JunYoung Gwak",
+        "Silvio Savarese",
+        "Manmohan Chandraker"
+    ],
+    "Phased Exploration with Greedy Exploitation in Stochastic Combinatorial Partial Monitoring Games": [
+        "Sougata Chaudhuri",
+        "Ambuj Tewari"
+    ],
+    "Showing versus doing: Teaching by demonstration": [
+        "Mark K. Ho",
+        "Michael Littman",
+        "James MacGlashan",
+        "Fiery Cushman",
+        "Joseph L. Austerweil"
+    ],
+    "Learning Transferrable Representations for Unsupervised Domain Adaptation": [
+        "Ozan Sener",
+        "Hyun Oh Song",
+        "Ashutosh Saxena",
+        "Silvio Savarese"
+    ],
+    "On Robustness of Kernel Clustering": [
+        "Bowei Yan",
+        "Purnamrita Sarkar"
+    ],
+    "Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than O(1/\u03f5)O(1/\u03f5)": [
+        "Yi Xu",
+        "Yan Yan",
+        "Qihang Lin",
+        "Tianbao Yang"
+    ],
+    "Fast Algorithms for Robust PCA via Gradient Descent": [
+        "Xinyang Yi",
+        "Dohyung Park",
+        "Yudong Chen",
+        "Constantine Caramanis"
+    ],
+    "Dimensionality Reduction of Massive Sparse Datasets Using Coresets": [
+        "Dan Feldman",
+        "Mikhail Volkov",
+        "Daniela Rus"
+    ],
+    "Doubly Convolutional Neural Networks": [
+        "Shuangfei Zhai",
+        "Yu Cheng",
+        "Zhongfei (Mark) Zhang",
+        "Weining Lu"
+    ],
+    "Brains on Beats": [
+        "Umut G\u00fc\u00e7l\u00fc",
+        "Jordy Thielen",
+        "Michael Hanke",
+        "Marcel van Gerven"
+    ],
+    "Local Minimax Complexity of Stochastic Convex Optimization": [
+        "sabyasachi chatterjee",
+        "John C. Duchi",
+        "John Lafferty",
+        "Yuancheng Zhu"
+    ],
+    "Kronecker Determinantal Point Processes": [
+        "Zelda E. Mariet",
+        "Suvrit Sra"
+    ],
+    "Normalized Spectral Map Synchronization": [
+        "Yanyao Shen",
+        "Qixing Huang",
+        "Nati Srebro",
+        "Sujay Sanghavi"
+    ],
+    "Error Analysis of Generalized Nystr\u00f6m Kernel Regression": [
+        "Hong Chen",
+        "Haifeng Xia",
+        "Heng Huang",
+        "Weidong Cai"
+    ],
+    "Regularized Nonlinear Acceleration": [
+        "Damien Scieur",
+        "Alexandre d'Aspremont",
+        "Francis Bach"
+    ],
+    "Pairwise Choice Markov Chains": [
+        "Stephen Ragain",
+        "Johan Ugander"
+    ],
+    "Stochastic Variational Deep Kernel Learning": [
+        "Andrew G. Wilson",
+        "Zhiting Hu",
+        "Russ R. Salakhutdinov",
+        "Eric P. Xing"
+    ],
+    "Theoretical Comparisons of Positive-Unlabeled Learning against Positive-Negative Learning": [
+        "Gang Niu",
+        "Marthinus Christoffel du Plessis",
+        "Tomoya Sakai",
+        "Yao Ma",
+        "Masashi Sugiyama"
+    ],
+    "A Non-generative Framework and Convex Relaxations for Unsupervised Learning": [
+        "Elad Hazan",
+        "Tengyu Ma"
+    ],
+    "DISCO Nets : DISsimilarity COefficients Networks": [
+        "Diane Bouchacourt",
+        "Pawan K. Mudigonda",
+        "Sebastian Nowozin"
+    ],
+    "Learning to Poke by Poking: Experiential Learning of Intuitive Physics": [
+        "Pulkit Agrawal",
+        "Ashvin V. Nair",
+        "Pieter Abbeel",
+        "Jitendra Malik",
+        "Sergey Levine"
+    ],
+    "Value Iteration Networks": [
+        "Aviv Tamar",
+        "YI WU",
+        "Garrett Thomas",
+        "Sergey Levine",
+        "Pieter Abbeel"
+    ],
+    "Training and Evaluating Multimodal Word Embeddings with Large-scale Web Annotated Images": [
+        "Junhua Mao",
+        "Jiajing Xu",
+        "Kevin Jing",
+        "Alan L. Yuille"
+    ],
+    "Simple and Efficient Weighted Minwise Hashing": [
+        "Anshumali Shrivastava"
+    ],
+    "Cooperative Inverse Reinforcement Learning": [
+        "Dylan Hadfield-Menell",
+        "Stuart J. Russell",
+        "Pieter Abbeel",
+        "Anca Dragan"
+    ],
+    "Safe and Efficient Off-Policy Reinforcement Learning": [
+        "Remi Munos",
+        "Tom Stepleton",
+        "Anna Harutyunyan",
+        "Marc Bellemare"
+    ],
+    "LightRNN: Memory and Computation-Efficient Recurrent Neural Networks": [
+        "Xiang Li",
+        "Tao Qin",
+        "Jian Yang",
+        "Tie-Yan Liu"
+    ],
+    "Deep Learning Games": [
+        "Dale Schuurmans",
+        "Martin A. Zinkevich"
+    ],
+    "Strategic Attentive Writer for Learning Macro-Actions": [
+        "Alexander Vezhnevets",
+        "Volodymyr Mnih",
+        "Simon Osindero",
+        "Alex Graves",
+        "Oriol Vinyals",
+        "John Agapiou",
+        "koray kavukcuoglu"
+    ],
+    "Clustering with Bregman Divergences: an Asymptotic Analysis": [
+        "Chaoyue Liu",
+        "Mikhail Belkin"
+    ],
+    "Swapout: Learning an ensemble of deep architectures": [
+        "Saurabh Singh",
+        "Derek Hoiem",
+        "David Forsyth"
+    ],
+    "Stochastic Online AUC Maximization": [
+        "Yiming Ying",
+        "Longyin Wen",
+        "Siwei Lyu"
+    ],
+    "Optimizing affinity-based binary hashing using auxiliary coordinates": [
+        "Ramin Raziperchikolaei",
+        "Miguel A. Carreira-Perpinan"
+    ],
+    "Sample Complexity of Automated Mechanism Design": [
+        "Maria-Florina F. Balcan",
+        "Tuomas Sandholm",
+        "Ellen Vitercik"
+    ],
+    "LazySVD: Even Faster SVD Decomposition Yet Without Agonizing Pain": [
+        "Zeyuan Allen-Zhu",
+        "Yuanzhi Li"
+    ],
+    "A Probabilistic Framework for Deep Learning": [
+        "Ankit B. Patel",
+        "Minh Tan Nguyen",
+        "Richard Baraniuk"
+    ],
+    "Without-Replacement Sampling for Stochastic Gradient Methods": [
+        "Ohad Shamir"
+    ],
+    "Learning to Communicate with Deep Multi-Agent Reinforcement Learning": [
+        "Jakob Foerster",
+        "Ioannis Alexandros Assael",
+        "Nando de Freitas",
+        "Shimon Whiteson"
+    ],
+    "Understanding the Effective Receptive Field in Deep Convolutional Neural Networks": [
+        "Wenjie Luo",
+        "Yujia Li",
+        "Raquel Urtasun",
+        "Richard Zemel"
+    ],
+    "Barzilai-Borwein Step Size for Stochastic Gradient Descent": [
+        "Conghui Tan",
+        "Shiqian Ma",
+        "Yu-Hong Dai",
+        "Yuqiu Qian"
+    ],
+    "The Power of Optimization from Samples": [
+        "Eric Balkanski",
+        "Aviad Rubinstein",
+        "Yaron Singer"
+    ],
+    "New Liftable Classes for First-Order Probabilistic Inference": [
+        "Seyed Mehran Kazemi",
+        "Angelika Kimmig",
+        "Guy Van den Broeck",
+        "David Poole"
+    ],
+    "Optimal Tagging with Markov Chain Optimization": [
+        "Nir Rosenfeld",
+        "Amir Globerson"
+    ],
+    "Fast and Flexible Monotonic Functions with Ensembles of Lattices": [
+        "Mahdi Milani Fard",
+        "Kevin Canini",
+        "Andrew Cotter",
+        "Jan Pfeifer",
+        "Maya Gupta"
+    ],
+    "A scaled Bregman theorem with applications": [
+        "Richard Nock",
+        "Aditya Menon",
+        "Cheng Soon Ong"
+    ],
+    "The Product Cut": [
+        "Thomas Laurent",
+        "James von Brecht",
+        "Xavier Bresson",
+        "arthur szlam"
+    ],
+    "Learning from Rational Behavior: Predicting Solutions to Unknown Linear Programs": [
+        "Shahin Jabbari",
+        "Ryan M. Rogers",
+        "Aaron Roth",
+        "Steven Z. Wu"
+    ],
+    "Unified Methods for Exploiting Piecewise Linear Structure in Convex Optimization": [
+        "Tyler B. Johnson",
+        "Carlos Guestrin"
+    ],
+    "Large-Scale Price Optimization via Network Flow": [
+        "Shinji Ito",
+        "Ryohei Fujimaki"
+    ],
+    "Generative Adversarial Imitation Learning": [
+        "Jonathan Ho",
+        "Stefano Ermon"
+    ],
+    "Truncated Variance Reduction: A Unified Approach to Bayesian Optimization and Level-Set Estimation": [
+        "Ilija Bogunovic",
+        "Jonathan Scarlett",
+        "Andreas Krause",
+        "Volkan Cevher"
+    ],
+    "f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization": [
+        "Sebastian Nowozin",
+        "Botond Cseke",
+        "Ryota Tomioka"
+    ],
+    "Nearly Isometric Embedding by Relaxation": [
+        "James McQueen",
+        "Marina Meila",
+        "Dominique Joncas"
+    ],
+    "DECOrrelated feature space partitioning for distributed sparse regression": [
+        "Xiangyu Wang",
+        "David B. Dunson",
+        "Chenlei Leng"
+    ],
+    "Incremental Boosting Convolutional Neural Network for Facial Action Unit Recognition": [
+        "Shizhong Han",
+        "Zibo Meng",
+        "AHMED-SHEHAB KHAN",
+        "Yan Tong"
+    ],
+    "An urn model for majority voting in classification ensembles": [
+        "Victor Soto",
+        "Alberto Su\u00e1rez",
+        "Gonzalo Martinez-Mu\u00f1oz"
+    ],
+    "Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA": [
+        "Aapo Hyvarinen",
+        "Hiroshi Morioka"
+    ],
+    "Leveraging Sparsity for Efficient Submodular Data Summarization": [
+        "Erik Lindgren",
+        "Shanshan Wu",
+        "Alexandros G. Dimakis"
+    ],
+    "Mistake Bounds for Binary Matrix Completion": [
+        "Mark Herbster",
+        "Stephen Pasteris",
+        "Massimiliano Pontil"
+    ],
+    "Quantum Perceptron Models": [
+        "Ashish Kapoor",
+        "Nathan Wiebe",
+        "Krysta Svore"
+    ],
+    "Direct Feedback Alignment Provides Learning in Deep Neural Networks": [
+        "Arild N\u00f8kland"
+    ],
+    "Average-case hardness of RIP certification": [
+        "Tengyao Wang",
+        "Quentin Berthet",
+        "Yaniv Plan"
+    ],
+    "Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information": [
+        "Alexander Shishkin",
+        "Anastasia Bezzubtseva",
+        "Alexey Drutsa",
+        "Ilia Shishkov",
+        "Ekaterina Gladkikh",
+        "Gleb Gusev",
+        "Pavel Serdyukov"
+    ],
+    "Fast and Provably Good Seedings for k-Means": [
+        "Olivier Bachem",
+        "Mario Lucic",
+        "Hamed Hassani",
+        "Andreas Krause"
+    ],
+    "Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm": [
+        "Kejun Huang",
+        "Xiao Fu",
+        "Nikolaos D. Sidiropoulos"
+    ],
+    "High Dimensional Structured Superposition Models": [
+        "Qilong Gu",
+        "Arindam Banerjee"
+    ],
+    "A Bandit Framework for Strategic Regression": [
+        "Yang Liu",
+        "Yiling Chen"
+    ],
+    "Linear Relaxations for Finding Diverse Elements in Metric Spaces": [
+        "Aditya Bhaskara",
+        "Mehrdad Ghadiri",
+        "Vahab Mirrokni",
+        "Ola Svensson"
+    ],
+    "Binarized Neural Networks": [
+        "Itay Hubara",
+        "Matthieu Courbariaux",
+        "Daniel Soudry",
+        "Ran El-Yaniv",
+        "Yoshua Bengio"
+    ],
+    "Learning a Metric Embedding  for Face Recognition using the Multibatch Method": [
+        "Oren Tadmor",
+        "Tal Rosenwein",
+        "Shai Shalev-Shwartz",
+        "Yonatan Wexler",
+        "Amnon Shashua"
+    ],
+    "Operator Variational Inference": [
+        "Rajesh Ranganath",
+        "Dustin Tran",
+        "Jaan Altosaar",
+        "David Blei"
+    ],
+    "Unsupervised Learning for Physical Interaction through Video Prediction": [
+        "Chelsea Finn",
+        "Ian Goodfellow",
+        "Sergey Levine"
+    ],
+    "Full-Capacity Unitary Recurrent Neural Networks": [
+        "Scott Wisdom",
+        "Thomas Powers",
+        "John Hershey",
+        "Jonathan Le Roux",
+        "Les Atlas"
+    ],
+    "Linear-Memory and Decomposition-Invariant Linearly Convergent Conditional Gradient Algorithm for Structured Polytopes": [
+        "Dan Garber",
+        "Dan Garber",
+        "Ofer Meshi"
+    ],
+    "Combining Adversarial Guarantees and Stochastic Fast Rates in Online Learning": [
+        "Wouter M. Koolen",
+        "Peter Gr\u00fcnwald",
+        "Tim van Erven"
+    ],
+    "A Comprehensive Linear Speedup Analysis for Asynchronous Stochastic Parallel Optimization from Zeroth-Order to First-Order": [
+        "Xiangru Lian",
+        "Huan Zhang",
+        "Cho-Jui Hsieh",
+        "Yijun Huang",
+        "Ji Liu"
+    ],
+    "Noise-Tolerant Life-Long Matrix Completion via Adaptive Sampling": [
+        "Maria-Florina F. Balcan",
+        "Hongyang Zhang"
+    ],
+    "Satisfying Real-world Goals with Dataset Constraints": [
+        "Gabriel Goh",
+        "Andrew Cotter",
+        "Maya Gupta",
+        "Michael P. Friedlander"
+    ],
+    "Launch and Iterate: Reducing Prediction Churn": [
+        "Mahdi Milani Fard",
+        "Quentin Cormier",
+        "Kevin Canini",
+        "Maya Gupta"
+    ],
+    "Constraints Based Convex Belief Propagation": [
+        "Y\u007faniv Tenzer",
+        "Alex Schwing",
+        "Kevin Gimpel",
+        "Tamir Hazan"
+    ],
+    "Data driven estimation of Laplace-Beltrami operator": [
+        "Frederic Chazal",
+        "Ilaria Giulini",
+        "Bertrand Michel"
+    ],
+    "The Robustness of Estimator Composition": [
+        "Pingfan Tang",
+        "Jeff M. Phillips"
+    ],
+    "Active Learning from Imperfect Labelers": [
+        "Songbai Yan",
+        "Kamalika Chaudhuri",
+        "Tara Javidi"
+    ],
+    "Improved Variational Inference with Inverse Autoregressive Flow": [
+        "Durk P. Kingma",
+        "Tim Salimans",
+        "Rafal Jozefowicz",
+        "Xi Chen",
+        "Ilya Sutskever",
+        "Max Welling"
+    ],
+    "Select-and-Sample for Spike-and-Slab Sparse Coding": [
+        "Abdul-Saboor Sheikh",
+        "J\u00f6rg L\u00fccke"
+    ],
+    "Learning Infinite RBMs with Frank-Wolfe": [
+        "Wei Ping",
+        "Qiang Liu",
+        "Alexander T. Ihler"
+    ],
+    "Faster Projection-free Convex Optimization over the Spectrahedron": [
+        "Dan Garber",
+        "Dan Garber"
+    ],
+    "Improved Regret Bounds for Oracle-Based Adversarial Contextual Bandits": [
+        "Vasilis Syrgkanis",
+        "Haipeng Luo",
+        "Akshay Krishnamurthy",
+        "Robert E. Schapire"
+    ],
+    "Joint quantile regression in vector-valued RKHSs": [
+        "Maxime Sangnier",
+        "Olivier Fercoq",
+        "Florence d'Alch\u00e9-Buc"
+    ],
+    "Kernel Bayesian Inference with Posterior Regularization": [
+        "Yang Song",
+        "Jun Zhu",
+        "Yong Ren"
+    ],
+    "Scaled Least Squares Estimator for GLMs in Large-Scale Problems": [
+        "Murat A. Erdogdu",
+        "Lee H. Dicker",
+        "Mohsen Bayati"
+    ],
+    "Contextual semibandits via supervised learning oracles": [
+        "Akshay Krishnamurthy",
+        "Alekh Agarwal",
+        "Miro Dudik"
+    ],
+    "Learning Treewidth-Bounded Bayesian Networks with Thousands of Variables": [
+        "Mauro Scanagatta",
+        "Giorgio Corani",
+        "Cassio P. de Campos",
+        "Marco Zaffalon"
+    ],
+    "Unsupervised Learning from Noisy Networks with Applications to Hi-C Data": [
+        "Bo Wang",
+        "Junjie Zhu",
+        "Armin Pourshafeie",
+        "Oana Ursu",
+        "Serafim Batzoglou",
+        "Anshul Kundaje"
+    ],
+    "Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much": [
+        "Bryan D. He",
+        "Christopher M. De Sa",
+        "Ioannis Mitliagkas",
+        "Christopher R\u00e9"
+    ],
+    "Deep Neural Networks with Inexact Matching for Person Re-Identification": [
+        "Arulkumar Subramaniam",
+        "Moitreya Chatterjee",
+        "Anurag Mittal"
+    ],
+    "Efficient Neural Codes under Metabolic Constraints": [
+        "Zhuo Wang",
+        "Xue-Xin Wei",
+        "Alan A. Stocker",
+        "Daniel D. Lee"
+    ],
+    "Learning Kernels with Random Features": [
+        "Aman Sinha",
+        "John C. Duchi"
+    ],
+    "Combinatorial semi-bandit with known covariance": [
+        "R\u00e9my Degenne",
+        "Vianney Perchet"
+    ],
+    "Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision": [
+        "Xinchen Yan",
+        "Jimei Yang",
+        "Ersin Yumer",
+        "Yijie Guo",
+        "Honglak Lee"
+    ],
+    "Exact Recovery of Hard Thresholding Pursuit": [
+        "Xiaotong Yuan",
+        "Ping Li",
+        "Tong Zhang"
+    ],
+    "Parameter Learning for Log-supermodular Distributions": [
+        "Tatiana Shpakova",
+        "Francis Bach"
+    ],
+    "A Multi-step Inertial Forward-Backward Splitting Method for Non-convex Optimization": [
+        "Jingwei Liang",
+        "Jalal Fadili",
+        "Gabriel Peyr\u00e9"
+    ],
+    "Optimal Binary Classifier Aggregation for General Losses": [
+        "Akshay Balsubramani",
+        "Yoav S. Freund"
+    ],
+    "Dense Associative Memory for Pattern Recognition": [
+        "Dmitry Krotov",
+        "John J. Hopfield"
+    ],
+    "Fairness in Learning: Classic and Contextual Bandits": [
+        "Matthew Joseph",
+        "Michael Kearns",
+        "Jamie H. Morgenstern",
+        "Aaron Roth"
+    ],
+    "Variational Autoencoder for Deep Learning of Images, Labels and Captions": [
+        "Yunchen Pu",
+        "Zhe Gan",
+        "Ricardo Henao",
+        "Xin Yuan",
+        "Chunyuan Li",
+        "Andrew Stevens",
+        "Lawrence Carin"
+    ],
+    "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks": [
+        "Tim Salimans",
+        "Durk P. Kingma"
+    ],
+    "Learning Additive Exponential Family Graphical Models via \u21132,1\u21132,1-norm Regularized M-Estimation": [
+        "Xiaotong Yuan",
+        "Ping Li",
+        "Tong Zhang",
+        "Qingshan Liu",
+        "Guangcan Liu"
+    ],
+    "Disentangling factors of variation in deep representation using adversarial training": [
+        "Michael F. Mathieu",
+        "Junbo Jake Zhao",
+        "Junbo Zhao",
+        "Aditya Ramesh",
+        "Pablo Sprechmann",
+        "Yann LeCun"
+    ],
+    "Gaussian Processes for Survival Analysis": [
+        "Tamara Fernandez",
+        "Nicolas Rivera",
+        "Yee Whye Teh"
+    ],
+    "Correlated-PCA: Principal Components' Analysis when Data and Noise are Correlated": [
+        "Namrata Vaswani",
+        "Han Guo"
+    ],
+    "On Explore-Then-Commit strategies": [
+        "Aurelien Garivier",
+        "Tor Lattimore",
+        "Emilie Kaufmann"
+    ],
+    "Adaptive Neural Compilation": [
+        "Rudy R. Bunel",
+        "Alban Desmaison",
+        "Pawan K. Mudigonda",
+        "Pushmeet Kohli",
+        "Philip Torr"
+    ],
+    "Graphical Time Warping for Joint Alignment of Multiple Curves": [
+        "Yizhi Wang",
+        "David J. Miller",
+        "Kira Poskanzer",
+        "Yue Wang",
+        "Lin Tian",
+        "Guoqiang Yu"
+    ],
+    "PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions": [
+        "Mikhail Figurnov",
+        "Aizhan Ibraimova",
+        "Dmitry P. Vetrov",
+        "Pushmeet Kohli"
+    ],
+    "DeepMath - Deep Sequence Models for Premise Selection": [
+        "Geoffrey Irving",
+        "Christian Szegedy",
+        "Alexander A. Alemi",
+        "Niklas Een",
+        "Francois Chollet",
+        "Josef Urban"
+    ],
+    "A Pseudo-Bayesian Algorithm for Robust PCA": [
+        "Tae-Hyun Oh",
+        "Yasuyuki Matsushita",
+        "In Kweon",
+        "David Wipf"
+    ],
+    "The Forget-me-not Process": [
+        "Kieran Milan",
+        "Joel Veness",
+        "James Kirkpatrick",
+        "Michael Bowling",
+        "Anna Koop",
+        "Demis Hassabis"
+    ],
+    "Unsupervised Risk Estimation Using Only Conditional Independence Structure": [
+        "Jacob Steinhardt",
+        "Percy S. Liang"
+    ],
+    "Deep Learning without Poor Local Minima": [
+        "Kenji Kawaguchi"
+    ],
+    "Linear Contextual Bandits with Knapsacks": [
+        "Shipra Agrawal",
+        "Nikhil Devanur"
+    ],
+    "High resolution neural connectivity from incomplete tracing data using nonnegative spline regression": [
+        "Kameron D. Harris",
+        "Stefan Mihalas",
+        "Eric Shea-Brown"
+    ],
+    "Learning and Forecasting Opinion Dynamics in Social Networks": [
+        "Abir De",
+        "Isabel Valera",
+        "Niloy Ganguly",
+        "Sourangshu Bhattacharya",
+        "Manuel Gomez Rodriguez"
+    ],
+    "Lifelong Learning with Weighted Majority Votes": [
+        "Anastasia Pentina",
+        "Ruth Urner"
+    ],
+    "Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions": [
+        "Ayan Chakrabarti",
+        "Jingyu Shao",
+        "Greg Shakhnarovich"
+    ],
+    "Ancestral Causal Inference": [
+        "Sara Magliacane",
+        "Tom Claassen",
+        "Joris M. Mooij"
+    ],
+    "Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation": [
+        "Tejas D. Kulkarni",
+        "Karthik Narasimhan",
+        "Ardavan Saeedi",
+        "Josh Tenenbaum"
+    ],
+    "Agnostic Estimation for Misspecified Phase Retrieval Models": [
+        "Matey Neykov",
+        "Zhaoran Wang",
+        "Han Liu"
+    ],
+    "Can Peripheral Representations Improve Clutter Metrics on Complex Scenes?": [
+        "Arturo Deza",
+        "Miguel Eckstein"
+    ],
+    "Proximal Deep Structured Models": [
+        "Shenlong Wang",
+        "Sanja Fidler",
+        "Raquel Urtasun"
+    ],
+    "SPALS: Fast Alternating Least Squares via Implicit Leverage Scores Sampling": [
+        "Dehua Cheng",
+        "Richard Peng",
+        "Yan Liu",
+        "Ioakeim Perros"
+    ],
+    "On Multiplicative Integration with Recurrent Neural Networks": [
+        "Yuhuai Wu",
+        "Saizheng Zhang",
+        "Ying Zhang",
+        "Yoshua Bengio",
+        "Russ R. Salakhutdinov"
+    ],
+    "The Generalized Reparameterization Gradient": [
+        "Francisco R. Ruiz",
+        "Michalis Titsias RC AUEB",
+        "David Blei"
+    ],
+    "Semiparametric Differential Graph Models": [
+        "Pan Xu",
+        "Quanquan Gu"
+    ],
+    "Neural Universal Discrete Denoiser": [
+        "Taesup Moon",
+        "Seonwoo Min",
+        "Byunghan Lee",
+        "Sungroh Yoon"
+    ],
+    "Testing for Differences in Gaussian Graphical Models:  Applications to Brain Connectivity": [
+        "Eugene Belilovsky",
+        "Ga\u00ebl Varoquaux",
+        "Matthew B. Blaschko"
+    ],
+    "Learning to learn by gradient descent by gradient descent": [
+        "Marcin Andrychowicz",
+        "Misha Denil",
+        "Sergio G\u00f3mez",
+        "Matthew W. Hoffman",
+        "David Pfau",
+        "Tom Schaul",
+        "Brendan Shillingford",
+        "Nando de Freitas"
+    ],
+    "Mixed vine copulas as joint models of spike counts and local field potentials": [
+        "Arno Onken",
+        "Stefano Panzeri"
+    ],
+    "Can Active Memory Replace Attention?": [
+        "\u0141ukasz Kaiser",
+        "Samy Bengio"
+    ],
+    "Fast Active Set Methods for Online Spike Inference from Calcium Imaging": [
+        "Johannes Friedrich",
+        "Liam Paninski"
+    ],
+    "Human Decision-Making under Limited Time": [
+        "Pedro A. Ortega",
+        "Alan A. Stocker"
+    ],
+    "End-to-End Kernel Learning with Supervised Convolutional Kernel Networks": [
+        "Julien Mairal"
+    ],
+    "Dueling Bandits: Beyond Condorcet Winners to General Tournament Solutions": [
+        "Siddartha Y. Ramamohan",
+        "Arun Rajkumar",
+        "Shivani Agarwal",
+        "Shivani Agarwal"
+    ],
+    "Visual Question Answering with Question Representation Update (QRU)": [
+        "Ruiyu Li",
+        "Jiaya Jia"
+    ],
+    "Optimal Learning for Multi-pass Stochastic Gradient Methods": [
+        "Junhong Lin",
+        "Lorenzo Rosasco"
+    ],
+    "General Tensor Spectral Co-clustering for Higher-Order Data": [
+        "Tao Wu",
+        "Austin R. Benson",
+        "David F. Gleich"
+    ],
+    "Balancing Suspense and Surprise: Timely Decision Making with Endogenous Information Acquisition": [
+        "Ahmed M. Alaa",
+        "Mihaela van der Schaar"
+    ],
+    "Generating Long-term Trajectories Using Deep Hierarchical Networks": [
+        "Stephan Zheng",
+        "Yisong Yue",
+        "Jennifer Hobbs"
+    ],
+    "Natural-Parameter Networks: A Class of Probabilistic Neural Networks": [
+        "Hao Wang",
+        "Xingjian SHI",
+        "Dit-Yan Yeung"
+    ],
+    "Minimizing Quadratic Functions in Constant Time": [
+        "Kohei Hayashi",
+        "Yuichi Yoshida"
+    ]
+}
