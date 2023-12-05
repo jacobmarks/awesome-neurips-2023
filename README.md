@@ -84,50 +84,52 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 - The shortest abstract was from [Improved Convergence in High Probability of Clipped Gradient Methods with Heavy Tailed Noise](https://neurips.cc/virtual/2023/poster/70813), which has 29 words.
 
 </details>
+
+
 ## Cool NeurIPS Projects
 
-|                                               **Title**                                               |                                               **Paper**                                                |                                                                                          **Code**                                                                                           |                    **Project Page**                     |                                                              **Hugging Face**                                                              |
-| :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-|                               An Inverse Scaling Law for CLIP Training                                | [![arXiv](https://img.shields.io/badge/arXiv-2305.07017-b31b1b.svg)](https://arxiv.org/abs/2305.07017) |                                      [![GitHub](https://img.shields.io/github/stars/UCSC-VLAA/CLIPA?style=social)](https://github.com/UCSC-VLAA/CLIPA)                                      |                                                         |                                                                                                                                            |
-|                           Augmenting Language Models with Long-Term Memory                            | [![arXiv](https://img.shields.io/badge/arXiv-2306.07174-b31b1b.svg)](https://arxiv.org/abs/2306.07174) |                                     [![GitHub](https://img.shields.io/github/stars/Victorwz/LongMem?style=social)](https://github.com/Victorwz/LongMem)                                     |                                                         |                                                                                                                                            |
-|              Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models              | [![arXiv](https://img.shields.io/badge/arXiv-2304.09842-b31b1b.svg)](https://arxiv.org/abs/2304.09842) |                              [![GitHub](https://img.shields.io/github/stars/lupantech/chameleon-llm?style=social)](https://github.com/lupantech/chameleon-llm)                              |       [Project](https://chameleon-llm.github.io/)       |                                                                                                                                            |
-|        Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models        | [![arXiv](https://img.shields.io/badge/arXiv-2305.15023-b31b1b.svg)](https://arxiv.org/abs/2305.15023) |                                     [![GitHub](https://img.shields.io/github/stars/luogen1996/LaVIN?style=social)](https://github.com/luogen1996/LaVIN)                                     |     [Project](https://luogen1996.github.io/lavin/)      |                                                                                                                                            |
-|                   DataComp: In search of the next generation of multimodal datasets                   | [![arXiv](https://img.shields.io/badge/arXiv-2304.14108-b31b1b.svg)](https://arxiv.org/abs/2304.14108) |                               [![GitHub](https://img.shields.io/github/stars/mlfoundations/datacomp?style=social)](https://github.com/mlfoundations/datacomp)                               |           [Project](https://www.datacomp.ai/)           |                                                                                                                                            |
-|            Direct Preference Optimization: Your Language Model is Secretly a Reward Model             | [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) |         [![GitHub](https://img.shields.io/github/stars/eric-mitchell/direct-preference-optimization?style=social)](https://github.com/eric-mitchell/direct-preference-optimization)         |                                                         |                                                                                                                                            |
-|           DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data           | [![arXiv](https://img.shields.io/badge/arXiv-2306.09344-b31b1b.svg)](https://arxiv.org/abs/2306.09344) |                                 [![GitHub](https://img.shields.io/github/stars/ssundaram21/dreamsim?style=social)](https://github.com/ssundaram21/dreamsim)                                 |      [Project](https://dreamsim-nights.github.io/)      |                                                                                                                                            |
-|                         Fine-Tuning Language Models with Just Forward Passes                          | [![arXiv](https://img.shields.io/badge/arXiv-2305.17333-b31b1b.svg)](https://arxiv.org/abs/2305.17333) |                                   [![GitHub](https://img.shields.io/github/stars/princeton-nlp/MeZO?style=social)](https://github.com/princeton-nlp/MeZO)                                   |                                                         |                                                                                                                                            |
-|                           Generating Images with Multimodal Language Models                           | [![arXiv](https://img.shields.io/badge/arXiv-2305.17216-b31b1b.svg)](https://arxiv.org/abs/2305.17216) |                                       [![GitHub](https://img.shields.io/github/stars/kohjingyu/gill?style=social)](https://github.com/kohjingyu/gill)                                       |            [Project](https://jykoh.com/gill)            |                                                                                                                                            |
-|                              Holistic Evaluation of Text-To-Image Models                              | [![arXiv](https://img.shields.io/badge/arXiv-2311.04287-b31b1b.svg)](https://arxiv.org/abs/2311.04287) |                                   [![GitHub](https://img.shields.io/github/stars/stanford-crfm/heim?style=social)](https://github.com/stanford-crfm/heim)                                   |    [Project](https://crfm.stanford.edu/heim/latest/)    |                                                                                                                                            |
-|               HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face               | [![arXiv](https://img.shields.io/badge/arXiv-2303.17580-b31b1b.svg)](https://arxiv.org/abs/2303.17580) |                                     [![GitHub](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)](https://github.com/microsoft/JARVIS)                                     |                                                         |     [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/microsoft/HuggingGPT)     |
-|          ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation          | [![arXiv](https://img.shields.io/badge/arXiv-2304.05977-b31b1b.svg)](https://arxiv.org/abs/2304.05977) |                                    [![GitHub](https://img.shields.io/github/stars/THUDM/ImageReward?style=social)](https://github.com/THUDM/ImageReward)                                    |                                                         |          [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/THUDM/ImageReward)          |
-|         InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning          | [![arXiv](https://img.shields.io/badge/arXiv-2305.06500-b31b1b.svg)](https://arxiv.org/abs/2305.06500) |     [![GitHub](https://img.shields.io/github/stars/salesforce/LAVIS/tree/main/projects/instructblip?style=social)](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)     |                                                         |             [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](Salesforce/instructblip-vicuna-7b)              |
-|                        Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena                         | [![arXiv](https://img.shields.io/badge/arXiv-2306.05685-b31b1b.svg)](https://arxiv.org/abs/2306.05685) |         [![GitHub](https://img.shields.io/github/stars/lm-sys/FastChat/tree/main/fastchat/llm_judge?style=social)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)         |                                                         |                                                                                                                                            |
-|                 LAMM: Multi-Modal Large Language Models and Applications as AI Agents                 | [![arXiv](https://img.shields.io/badge/arXiv-2306.06687-b31b1b.svg)](https://arxiv.org/abs/2306.06687) |                                       [![GitHub](https://img.shields.io/github/stars/OpenGVLab/LAMM?style=social)](https://github.com/OpenGVLab/LAMM)                                       |         [Project](https://openlamm.github.io/)          |                                                                                                                                            |
-|                                   LIMA: Less Is More for Alignment                                    | [![arXiv](https://img.shields.io/badge/arXiv-2305.11206-b31b1b.svg)](https://arxiv.org/abs/2305.11206) |                                                                                                                                                                                             |                                                         |                                                                                                                                            |
-|                    LLM-Pruner: On the Structural Pruning of Large Language Models                     | [![arXiv](https://img.shields.io/badge/arXiv-2305.11627-b31b1b.svg)](https://arxiv.org/abs/2305.11627) |                                   [![GitHub](https://img.shields.io/github/stars/horseee/LLM-Pruner?style=social)](https://github.com/horseee/LLM-Pruner)                                   |                                                         |                                                                                                                                            |
-|  LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario   | [![arXiv](https://img.shields.io/badge/arXiv-2310.08348-b31b1b.svg)](https://arxiv.org/abs/2310.08348) |                                  [![GitHub](https://img.shields.io/github/stars/opendilab/LightZero?style=social)](https://github.com/opendilab/LightZero)                                  |                                                         |                                                                                                                                            |
-|    MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion     | [![arXiv](https://img.shields.io/badge/arXiv-2307.01097-b31b1b.svg)](https://arxiv.org/abs/2307.01097) |                               [![GitHub](https://img.shields.io/github/stars/Tangshitao/MVDiffusion?style=social)](https://github.com/Tangshitao/MVDiffusion)                               |        [Project](https://mvdiffusion.github.io/)        |                                                                                                                                            |
-|             MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing             | [![arXiv](https://img.shields.io/badge/arXiv-2306.10012-b31b1b.svg)](https://arxiv.org/abs/2306.10012) |                             [![GitHub](https://img.shields.io/github/stars/OSU-NLP-Group/MagicBrush?style=social)](https://github.com/OSU-NLP-Group/MagicBrush)                             | [Project](https://osu-nlp-group.github.io/MagicBrush/)  |     [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/osunlp/MagicBrush)      |
-|                                 Mathematical Capabilities of ChatGPT                                  | [![arXiv](https://img.shields.io/badge/arXiv-2301.13867-b31b1b.svg)](https://arxiv.org/abs/2301.13867) |                                     [![GitHub](https://img.shields.io/github/stars/friederrr/GHOSTS?style=social)](https://github.com/friederrr/GHOSTS)                                     |        [Project](https://ghosts.friederrr.org/)         |                                                                                                                                            |
-| Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation | [![arXiv](https://img.shields.io/badge/arXiv-2306.17115-b31b1b.svg)](https://arxiv.org/abs/2306.17115) |                            [![GitHub](https://img.shields.io/github/stars/NeuralCarver/Michelangelo?style=social)](https://github.com/NeuralCarver/Michelangelo)                            | [Project](https://neuralcarver.github.io/michelangelo/) |                                                                                                                                            |
-|                 Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset                 | [![arXiv](https://img.shields.io/badge/arXiv-2307.00818-b31b1b.svg)](https://arxiv.org/abs/2307.00818) |                               [![GitHub](https://img.shields.io/github/stars/IDEA-Research/Motion-X?style=social)](https://github.com/IDEA-Research/Motion-X)                               |     [Project](https://motion-x-dataset.github.io/)      |                                                                                                                                            |
-|                              MotionGPT: Human Motion as Foreign Language                              | [![arXiv](https://img.shields.io/badge/arXiv-2306.14795-b31b1b.svg)](https://arxiv.org/abs/2306.14795) |                              [![GitHub](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT?style=social)](https://github.com/OpenMotionLab/MotionGPT)                              |        [Project](https://motion-gpt.github.io/)         |   [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/OpenMotionLab/MotionGPT)    |
-|            OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents            | [![arXiv](https://img.shields.io/badge/arXiv-2306.16527-b31b1b.svg)](https://arxiv.org/abs/2306.16527) |                                  [![GitHub](https://img.shields.io/github/stars/huggingface/OBELICS?style=social)](https://github.com/huggingface/OBELICS)                                  |                                                         |   [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/HuggingFaceM4/OBELICS)    |
-|                          Photoswap: Personalized Subject Swapping in Images                           | [![arXiv](https://img.shields.io/badge/arXiv-2305.18286-b31b1b.svg)](https://arxiv.org/abs/2305.18286) |                                [![GitHub](https://img.shields.io/github/stars/eric-ai-lab/photoswap?style=social)](https://github.com/eric-ai-lab/photoswap)                                |         [Project](https://photoswap.github.io/)         |                                                                                                                                            |
-|             Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation              | [![arXiv](https://img.shields.io/badge/arXiv-2305.01569-b31b1b.svg)](https://arxiv.org/abs/2305.01569) |                              [![GitHub](https://img.shields.io/github/stars/yuvalkirstain/PickScore?style=social)](https://github.com/yuvalkirstain/PickScore)                              |                                                         | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/yuvalkirstain/pickapic_v1)  |
-|                             QLoRA: Efficient Finetuning of Quantized LLMs                             | [![arXiv](https://img.shields.io/badge/arXiv-2305.14314-b31b1b.svg)](https://arxiv.org/abs/2305.14314) |                                       [![GitHub](https://img.shields.io/github/stars/artidoro/qlora?style=social)](https://github.com/artidoro/qlora)                                       |                                                         | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) |
-|                     Reflexion: Language Agents with Verbal Reinforcement Learning                     | [![arXiv](https://img.shields.io/badge/arXiv-2303.11366-b31b1b.svg)](https://arxiv.org/abs/2303.11366) |                                  [![GitHub](https://img.shields.io/github/stars/noahshinn/reflexion?style=social)](https://github.com/noahshinn/reflexion)                                  |                                                         |                                                                                                                                            |
-|          ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting          | [![arXiv](https://img.shields.io/badge/arXiv-2307.12348-b31b1b.svg)](https://arxiv.org/abs/2307.12348) |                                     [![GitHub](https://img.shields.io/github/stars/zsyOAOA/ResShift?style=social)](https://github.com/zsyOAOA/ResShift)                                     | [Project](https://zsyoaoa.github.io/projects/resshift/) |                                                                                                                                            |
-|                                   Segment Anything in 3D with NeRFs                                   | [![arXiv](https://img.shields.io/badge/arXiv-2304.12308-b31b1b.svg)](https://arxiv.org/abs/2304.12308) |                           [![GitHub](https://img.shields.io/github/stars/Jumpat/SegmentAnythingin3D?style=social)](https://github.com/Jumpat/SegmentAnythingin3D)                           |        [Project](https://jumpat.github.io/SA3D/)        |                                                                                                                                            |
-|                                   Segment Anything in High Quality                                    | [![arXiv](https://img.shields.io/badge/arXiv-2306.01567-b31b1b.svg)](https://arxiv.org/abs/2306.01567) |                                         [![GitHub](https://img.shields.io/github/stars/SysCV/sam-hq?style=social)](https://github.com/SysCV/sam-hq)                                         |                                                         |      [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/sam-hq-team/sam-hq)      |
-|                               Segment Everything Everywhere All at Once                               | [![arXiv](https://img.shields.io/badge/arXiv-2304.06718-b31b1b.svg)](https://arxiv.org/abs/2304.06718) | [![GitHub](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) |                                                         |                                                                                                                                            |
-|                         Self-Refine: Iterative Refinement with Self-Feedback                          | [![arXiv](https://img.shields.io/badge/arXiv-2303.17651-b31b1b.svg)](https://arxiv.org/abs/2303.17651) |                                   [![GitHub](https://img.shields.io/github/stars/madaan/self-refine?style=social)](https://github.com/madaan/self-refine)                                   |           [Project](https://selfrefine.info/)           |                                                                                                                                            |
-|                               Simple and Controllable Music Generation                                | [![arXiv](https://img.shields.io/badge/arXiv-2306.05284-b31b1b.svg)](https://arxiv.org/abs/2306.05284) |                          [![GitHub](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)](https://github.com/facebookresearch/audiocraft)                          |                                                         |                                                                                                                                            |
-|     Squeeze, Recover and Relabel : Dataset Condensation at ImageNet Scale From A New Perspective      | [![arXiv](https://img.shields.io/badge/arXiv-2306.13092-b31b1b.svg)](https://arxiv.org/abs/2306.13092) |                                       [![GitHub](https://img.shields.io/github/stars/VILA-Lab/SRe2L?style=social)](https://github.com/VILA-Lab/SRe2L)                                       |                                                         |                                                                                                                                            |
-| The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only | [![arXiv](https://img.shields.io/badge/arXiv-2306.01116-b31b1b.svg)](https://arxiv.org/abs/2306.01116) |                                                                                                                                                                                             |                                                         |  [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)  |
-|                     Toolformer: Language Models Can Teach Themselves to Use Tools                     | [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-b31b1b.svg)](https://arxiv.org/abs/2302.04761) |                                                                                                                                                                                             |                                                         |                                                                                                                                            |
-|                   Unlimiformer: Long-Range Transformers with Unlimited Length Input                   | [![arXiv](https://img.shields.io/badge/arXiv-2305.01625-b31b1b.svg)](https://arxiv.org/abs/2305.01625) |                              [![GitHub](https://img.shields.io/github/stars/abertsch72/unlimiformer?style=social)](https://github.com/abertsch72/unlimiformer)                              |                                                         |                                                                                                                                            |
-|                                       Visual Instruction Tuning                                       | [![arXiv](https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg)](https://arxiv.org/abs/2304.08485) |                                    [![GitHub](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)](https://github.com/haotian-liu/LLaVA)                                    |         [Project](https://llava-vl.github.io/)          |       [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/badayvedat/LLaVA)       |
+| **Title** | **Paper** | **Code** | **Project Page** | **Hugging Face** |
+|:---------:|:---------:|:--------:|:----------------:|:----------------:|
+| An Inverse Scaling Law for CLIP Training | [![arXiv](https://img.shields.io/badge/arXiv-2305.07017-b31b1b.svg)](https://arxiv.org/abs/2305.07017) | [![GitHub](https://img.shields.io/github/stars/UCSC-VLAA/CLIPA?style=social)](https://github.com/UCSC-VLAA/CLIPA)|  |  |
+| Augmenting Language Models with Long-Term Memory | [![arXiv](https://img.shields.io/badge/arXiv-2306.07174-b31b1b.svg)](https://arxiv.org/abs/2306.07174) | [![GitHub](https://img.shields.io/github/stars/Victorwz/LongMem?style=social)](https://github.com/Victorwz/LongMem)|  |  |
+| Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2304.09842-b31b1b.svg)](https://arxiv.org/abs/2304.09842) | [![GitHub](https://img.shields.io/github/stars/lupantech/chameleon-llm?style=social)](https://github.com/lupantech/chameleon-llm)| [Project](https://chameleon-llm.github.io/) |  |
+| Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2305.15023-b31b1b.svg)](https://arxiv.org/abs/2305.15023) | [![GitHub](https://img.shields.io/github/stars/luogen1996/LaVIN?style=social)](https://github.com/luogen1996/LaVIN)| [Project](https://luogen1996.github.io/lavin/) |  |
+| DataComp: In search of the next generation of multimodal datasets | [![arXiv](https://img.shields.io/badge/arXiv-2304.14108-b31b1b.svg)](https://arxiv.org/abs/2304.14108) | [![GitHub](https://img.shields.io/github/stars/mlfoundations/datacomp?style=social)](https://github.com/mlfoundations/datacomp)| [Project](https://www.datacomp.ai/) |  |
+| Direct Preference Optimization: Your Language Model is Secretly a Reward Model | [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-b31b1b.svg)](https://arxiv.org/abs/2305.18290) | [![GitHub](https://img.shields.io/github/stars/eric-mitchell/direct-preference-optimization?style=social)](https://github.com/eric-mitchell/direct-preference-optimization)|  |  |
+| DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data | [![arXiv](https://img.shields.io/badge/arXiv-2306.09344-b31b1b.svg)](https://arxiv.org/abs/2306.09344) | [![GitHub](https://img.shields.io/github/stars/ssundaram21/dreamsim?style=social)](https://github.com/ssundaram21/dreamsim)| [Project](https://dreamsim-nights.github.io/) |  |
+| Fine-Tuning Language Models with Just Forward Passes | [![arXiv](https://img.shields.io/badge/arXiv-2305.17333-b31b1b.svg)](https://arxiv.org/abs/2305.17333) | [![GitHub](https://img.shields.io/github/stars/princeton-nlp/MeZO?style=social)](https://github.com/princeton-nlp/MeZO)|  |  |
+| Generating Images with Multimodal Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2305.17216-b31b1b.svg)](https://arxiv.org/abs/2305.17216) | [![GitHub](https://img.shields.io/github/stars/kohjingyu/gill?style=social)](https://github.com/kohjingyu/gill)| [Project](https://jykoh.com/gill) |  |
+| Holistic Evaluation of Text-To-Image Models | [![arXiv](https://img.shields.io/badge/arXiv-2311.04287-b31b1b.svg)](https://arxiv.org/abs/2311.04287) | [![GitHub](https://img.shields.io/github/stars/stanford-crfm/heim?style=social)](https://github.com/stanford-crfm/heim)| [Project](https://crfm.stanford.edu/heim/latest/) |  |
+| HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face | [![arXiv](https://img.shields.io/badge/arXiv-2303.17580-b31b1b.svg)](https://arxiv.org/abs/2303.17580) | [![GitHub](https://img.shields.io/github/stars/microsoft/JARVIS?style=social)](https://github.com/microsoft/JARVIS)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/microsoft/HuggingGPT) |
+| ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation | [![arXiv](https://img.shields.io/badge/arXiv-2304.05977-b31b1b.svg)](https://arxiv.org/abs/2304.05977) | [![GitHub](https://img.shields.io/github/stars/THUDM/ImageReward?style=social)](https://github.com/THUDM/ImageReward)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/THUDM/ImageReward) |
+| InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning | [![arXiv](https://img.shields.io/badge/arXiv-2305.06500-b31b1b.svg)](https://arxiv.org/abs/2305.06500) | [![GitHub](https://img.shields.io/github/stars/salesforce/LAVIS/tree/main/projects/instructblip?style=social)](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](Salesforce/instructblip-vicuna-7b) |
+| Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena | [![arXiv](https://img.shields.io/badge/arXiv-2306.05685-b31b1b.svg)](https://arxiv.org/abs/2306.05685) | [![GitHub](https://img.shields.io/github/stars/lm-sys/FastChat/tree/main/fastchat/llm_judge?style=social)](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)|  |  |
+| LAMM: Multi-Modal Large Language Models and Applications as AI Agents | [![arXiv](https://img.shields.io/badge/arXiv-2306.06687-b31b1b.svg)](https://arxiv.org/abs/2306.06687) | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/LAMM?style=social)](https://github.com/OpenGVLab/LAMM)| [Project](https://openlamm.github.io/) |  |
+| LIMA: Less Is More for Alignment | [![arXiv](https://img.shields.io/badge/arXiv-2305.11206-b31b1b.svg)](https://arxiv.org/abs/2305.11206) | |  |  |
+| LLM-Pruner: On the Structural Pruning of Large Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2305.11627-b31b1b.svg)](https://arxiv.org/abs/2305.11627) | [![GitHub](https://img.shields.io/github/stars/horseee/LLM-Pruner?style=social)](https://github.com/horseee/LLM-Pruner)|  |  |
+| LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario | [![arXiv](https://img.shields.io/badge/arXiv-2310.08348-b31b1b.svg)](https://arxiv.org/abs/2310.08348) | [![GitHub](https://img.shields.io/github/stars/opendilab/LightZero?style=social)](https://github.com/opendilab/LightZero)|  |  |
+| MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion | [![arXiv](https://img.shields.io/badge/arXiv-2307.01097-b31b1b.svg)](https://arxiv.org/abs/2307.01097) | [![GitHub](https://img.shields.io/github/stars/Tangshitao/MVDiffusion?style=social)](https://github.com/Tangshitao/MVDiffusion)| [Project](https://mvdiffusion.github.io/) |  |
+| MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing | [![arXiv](https://img.shields.io/badge/arXiv-2306.10012-b31b1b.svg)](https://arxiv.org/abs/2306.10012) | [![GitHub](https://img.shields.io/github/stars/OSU-NLP-Group/MagicBrush?style=social)](https://github.com/OSU-NLP-Group/MagicBrush)| [Project](https://osu-nlp-group.github.io/MagicBrush/) | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/osunlp/MagicBrush) |
+| Mathematical Capabilities of ChatGPT | [![arXiv](https://img.shields.io/badge/arXiv-2301.13867-b31b1b.svg)](https://arxiv.org/abs/2301.13867) | [![GitHub](https://img.shields.io/github/stars/friederrr/GHOSTS?style=social)](https://github.com/friederrr/GHOSTS)| [Project](https://ghosts.friederrr.org/) |  |
+| Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation | [![arXiv](https://img.shields.io/badge/arXiv-2306.17115-b31b1b.svg)](https://arxiv.org/abs/2306.17115) | [![GitHub](https://img.shields.io/github/stars/NeuralCarver/Michelangelo?style=social)](https://github.com/NeuralCarver/Michelangelo)| [Project](https://neuralcarver.github.io/michelangelo/) |  |
+| Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset | [![arXiv](https://img.shields.io/badge/arXiv-2307.00818-b31b1b.svg)](https://arxiv.org/abs/2307.00818) | [![GitHub](https://img.shields.io/github/stars/IDEA-Research/Motion-X?style=social)](https://github.com/IDEA-Research/Motion-X)| [Project](https://motion-x-dataset.github.io/) |  |
+| MotionGPT: Human Motion as Foreign Language | [![arXiv](https://img.shields.io/badge/arXiv-2306.14795-b31b1b.svg)](https://arxiv.org/abs/2306.14795) | [![GitHub](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT?style=social)](https://github.com/OpenMotionLab/MotionGPT)| [Project](https://motion-gpt.github.io/) | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/OpenMotionLab/MotionGPT) |
+| OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents | [![arXiv](https://img.shields.io/badge/arXiv-2306.16527-b31b1b.svg)](https://arxiv.org/abs/2306.16527) | [![GitHub](https://img.shields.io/github/stars/huggingface/OBELICS?style=social)](https://github.com/huggingface/OBELICS)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/HuggingFaceM4/OBELICS) |
+| Photoswap: Personalized Subject Swapping in Images | [![arXiv](https://img.shields.io/badge/arXiv-2305.18286-b31b1b.svg)](https://arxiv.org/abs/2305.18286) | [![GitHub](https://img.shields.io/github/stars/eric-ai-lab/photoswap?style=social)](https://github.com/eric-ai-lab/photoswap)| [Project](https://photoswap.github.io/) |  |
+| Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation | [![arXiv](https://img.shields.io/badge/arXiv-2305.01569-b31b1b.svg)](https://arxiv.org/abs/2305.01569) | [![GitHub](https://img.shields.io/github/stars/yuvalkirstain/PickScore?style=social)](https://github.com/yuvalkirstain/PickScore)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/yuvalkirstain/pickapic_v1) |
+| QLoRA: Efficient Finetuning of Quantized LLMs | [![arXiv](https://img.shields.io/badge/arXiv-2305.14314-b31b1b.svg)](https://arxiv.org/abs/2305.14314) | [![GitHub](https://img.shields.io/github/stars/artidoro/qlora?style=social)](https://github.com/artidoro/qlora)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) |
+| Reflexion: Language Agents with Verbal Reinforcement Learning | [![arXiv](https://img.shields.io/badge/arXiv-2303.11366-b31b1b.svg)](https://arxiv.org/abs/2303.11366) | [![GitHub](https://img.shields.io/github/stars/noahshinn/reflexion?style=social)](https://github.com/noahshinn/reflexion)|  |  |
+| ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting | [![arXiv](https://img.shields.io/badge/arXiv-2307.12348-b31b1b.svg)](https://arxiv.org/abs/2307.12348) | [![GitHub](https://img.shields.io/github/stars/zsyOAOA/ResShift?style=social)](https://github.com/zsyOAOA/ResShift)| [Project](https://zsyoaoa.github.io/projects/resshift/) |  |
+| Segment Anything in 3D with NeRFs | [![arXiv](https://img.shields.io/badge/arXiv-2304.12308-b31b1b.svg)](https://arxiv.org/abs/2304.12308) | [![GitHub](https://img.shields.io/github/stars/Jumpat/SegmentAnythingin3D?style=social)](https://github.com/Jumpat/SegmentAnythingin3D)| [Project](https://jumpat.github.io/SA3D/) |  |
+| Segment Anything in High Quality | [![arXiv](https://img.shields.io/badge/arXiv-2306.01567-b31b1b.svg)](https://arxiv.org/abs/2306.01567) | [![GitHub](https://img.shields.io/github/stars/SysCV/sam-hq?style=social)](https://github.com/SysCV/sam-hq)|  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/sam-hq-team/sam-hq) |
+| Segment Everything Everywhere All at Once | [![arXiv](https://img.shields.io/badge/arXiv-2304.06718-b31b1b.svg)](https://arxiv.org/abs/2304.06718) | [![GitHub](https://img.shields.io/github/stars/UX-Decoder/Segment-Everything-Everywhere-All-At-Once?style=social)](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)|  |  |
+| Self-Refine: Iterative Refinement with Self-Feedback | [![arXiv](https://img.shields.io/badge/arXiv-2303.17651-b31b1b.svg)](https://arxiv.org/abs/2303.17651) | [![GitHub](https://img.shields.io/github/stars/madaan/self-refine?style=social)](https://github.com/madaan/self-refine)| [Project](https://selfrefine.info/) |  |
+| Simple and Controllable Music Generation | [![arXiv](https://img.shields.io/badge/arXiv-2306.05284-b31b1b.svg)](https://arxiv.org/abs/2306.05284) | [![GitHub](https://img.shields.io/github/stars/facebookresearch/audiocraft?style=social)](https://github.com/facebookresearch/audiocraft)|  |  |
+| Squeeze, Recover and Relabel : Dataset Condensation at ImageNet Scale From A New Perspective | [![arXiv](https://img.shields.io/badge/arXiv-2306.13092-b31b1b.svg)](https://arxiv.org/abs/2306.13092) | [![GitHub](https://img.shields.io/github/stars/VILA-Lab/SRe2L?style=social)](https://github.com/VILA-Lab/SRe2L)|  |  |
+| The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only | [![arXiv](https://img.shields.io/badge/arXiv-2306.01116-b31b1b.svg)](https://arxiv.org/abs/2306.01116) | |  | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/datasets/tiiuae/falcon-refinedweb) |
+| Toolformer: Language Models Can Teach Themselves to Use Tools | [![arXiv](https://img.shields.io/badge/arXiv-2302.04761-b31b1b.svg)](https://arxiv.org/abs/2302.04761) | |  |  |
+| Unlimiformer: Long-Range Transformers with Unlimited Length Input | [![arXiv](https://img.shields.io/badge/arXiv-2305.01625-b31b1b.svg)](https://arxiv.org/abs/2305.01625) | [![GitHub](https://img.shields.io/github/stars/abertsch72/unlimiformer?style=social)](https://github.com/abertsch72/unlimiformer)|  |  |
+| Visual Instruction Tuning | [![arXiv](https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg)](https://arxiv.org/abs/2304.08485) | [![GitHub](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)](https://github.com/haotian-liu/LLaVA)| [Project](https://llava-vl.github.io/) | [![Hugging Face](https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg)](https://huggingface.co/spaces/badayvedat/LLaVA) |
 
 ## Conference Schedule
 
@@ -417,7 +419,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Arthur Jacot
 
-### Bounded rationality in structured density estimation
+### Bounded rationality in structured  density estimation
 
 **Authors:** Tianyuan Teng, Kevin Li, Hang Zhang
 
@@ -429,7 +431,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Sheikh Md Shakeel Hassan, Arthur Feeney, Akash Dhruv, Jihoon Kim, Youngjoon Suh, Jaiyoung Ryu, Yoonjin Won, Aparna Chandramowlishwaran
 
-### CAP: Correlation-Aware Pruning for Highly-Accurate Sparse Vision Models
+### CAP:  Correlation-Aware Pruning for Highly-Accurate Sparse Vision Models
 
 **Authors:** Denis Kuznedelev, Eldar Kurtić, Elias Frantar, Dan Alistarh
 
@@ -499,7 +501,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Xidong Feng, Yicheng Luo, Ziyan Wang, Hongrui Tang, Mengyue Yang, Kun Shao, David Mguni, Yali Du, Jun Wang
 
-### CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data
+### CityRefer: Geography-aware 3D Visual Grounding Dataset on  City-scale Point Cloud Data
 
 **Authors:** Taiki Miyanishi, Fumiya Kitamori, Shuhei Kurita, Jungdae Lee, Motoaki Kawanabe, Nakamasa Inoue
 
@@ -1015,7 +1017,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Ziyi Bai, Ruiping Wang, Xilin Chen
 
-### Global Identifiability of $\ell_1$-based Dictionary Learning via Matrix Volume Optimization
+### Global Identifiability of  $\ell_1$-based Dictionary Learning via Matrix Volume Optimization
 
 **Authors:** Jingzhou Hu, Kejun Huang
 
@@ -1527,7 +1529,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Mingli Zhu, Shaokui Wei, Hongyuan Zha, Baoyuan Wu
 
-### NeuroEvoBench: Benchmarking Evolutionary Optimizers for Deep Learning Applications
+### NeuroEvoBench:  Benchmarking Evolutionary Optimizers for Deep Learning Applications
 
 **Authors:** Robert Lange, Yujin Tang, Yingtao Tian
 
@@ -2451,7 +2453,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Zekun Qi, Muzhou Yu, Runpei Dong, Kaisheng Ma
 
-### VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors
+### VTaC: A  Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors
 
 **Authors:** Li-wei Lehman, Benjamin Moody, Harsh Deep, Feng Wu, Hasan Saeed, Lucas McCullum, Diane Perry, Tristan Struja, Qiao Li, Gari Clifford, Roger Mark
 
@@ -3159,7 +3161,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Yuka Hashimoto, Masahiro Ikeda, Hachem Kadri
 
-### Defending against Data-Free Model Extraction by Distributionally Robust Defensive Training
+### Defending against Data-Free Model Extraction by  Distributionally Robust Defensive Training
 
 **Authors:** Zhenyi Wang, Li Shen, Tongliang Liu, Tiehang Duan, Yanjun Zhu, Donglin Zhan, DAVID DOERMANN, Mingchen Gao
 
@@ -3537,7 +3539,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Matthew Fisher, Chris Oates
 
-### Grammar Prompting for Domain-Specific Language Generation with Large Language Models
+### Grammar Prompting for Domain-Specific Language Generation with  Large Language Models
 
 **Authors:** Bailin Wang, Zi Wang, Xuezhi Wang, Yuan Cao, Rif A. Saurous, Yoon Kim
 
@@ -3601,7 +3603,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Bipasha Sen, Gaurav Singh, Aditya Agarwal, Rohith Agaram, Madhava Krishna, Srinath Sridhar
 
-### [Spotlight] HyTrel: Hypergraph-enhanced Tabular Data Representation Learning
+### [Spotlight] HyTrel: Hypergraph-enhanced  Tabular Data Representation Learning
 
 **Authors:** Pei Chen, Soumajyoti Sarkar, Leonard Lausen, Balasubramaniam Srinivasan, Sheng Zha, Ruihong Huang, George Karypis
 
@@ -4489,7 +4491,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Cathy Li, Emily Wenger, Zeyuan Allen-Zhu, Francois Charton, Kristin E. Lauter
 
-### SAMoSSA: Multivariate Singular Spectrum Analysis with Stochastic Autoregressive Noise
+### SAMoSSA:  Multivariate Singular Spectrum Analysis with Stochastic Autoregressive Noise
 
 **Authors:** Abdullah Alomar, Munther Dahleh, Sean Mann, Devavrat Shah
 
@@ -5275,7 +5277,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Nazarii Tupitsa, Abdulla Jasem Almansoori, Yanlin Wu, Martin Takac, Karthik Nandakumar, Samuel Horváth, Eduard Gorbunov
 
-### C-Disentanglement: Discovering Causally-Independent Generative Factors under an Inductive Bias of Confounder
+### C-Disentanglement: Discovering Causally-Independent Generative Factors under  an Inductive Bias of Confounder
 
 **Authors:** Xiaoyu Liu, Jiaxin Yuan, Bang An, Yuancheng Xu, Yifan Yang, Furong Huang
 
@@ -5631,7 +5633,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Stephanie Fu, Netanel Tamir, Shobhita Sundaram, Lucy Chai, Richard Zhang, Tali Dekel, Phillip Isola
 
-### DropCompute: simple and more robust distributed synchronous training via compute variance reduction
+### DropCompute: simple and more robust  distributed synchronous training via compute variance reduction
 
 **Authors:** Niv Giladi, Shahar Gottlieb, moran shkolnik, Asaf Karnieli, Ron Banner, Elad Hoffer, Kfir Y. Levy, Daniel Soudry
 
@@ -6341,7 +6343,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Fanjie Kong, Shuai Yuan, Weituo Hao, Ricardo Henao
 
-### [Spotlight] Mitigating the Popularity Bias of Graph Collaborative Filtering: A Dimensional Collapse Perspective
+### [Spotlight] Mitigating the Popularity Bias of  Graph Collaborative Filtering: A Dimensional Collapse Perspective
 
 **Authors:** Yifei Zhang, Hao Zhu, yankai Chen, Zixing Song, Piotr Koniusz, Irwin King
 
@@ -6543,7 +6545,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 ### On the spectral bias of two-layer linear networks
 
-**Authors:** Aditya Vardhan Varre, Maria-Luiza Vladarean, Loucas PILLAUD-VIVIEN, Nicolas Flammarion
+**Authors:** Aditya  Vardhan Varre, Maria-Luiza Vladarean, Loucas PILLAUD-VIVIEN, Nicolas Flammarion
 
 ### One Less Reason for Filter Pruning: Gaining Free Adversarial Robustness with Structured Grouped Kernel Pruning
 
@@ -6877,7 +6879,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Songtao Lu
 
-### SLaM: Student-Label Mixing for Distillation with Unlabeled Examples
+### SLaM: Student-Label Mixing for  Distillation with Unlabeled Examples
 
 **Authors:** Vasilis Kontonis, Fotis Iliopoulos, Khoa Trinh, Cenk Baykal, Gaurav Menghani, Erik Vee
 
@@ -6893,7 +6895,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Philip Sun, David Simcha, Dave Dopson, Ruiqi Guo, Sanjiv Kumar
 
-### SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation
+### SOC: Semantic-Assisted  Object Cluster for Referring Video Object Segmentation
 
 **Authors:** Zhuoyan Luo, Yicheng Xiao, Yong Liu, Shuyan Li, Yitong Wang, Yansong Tang, Xiu Li, Yujiu Yang
 
@@ -7463,7 +7465,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Feynman Liang, Liam Hodgkinson, Michael Mahoney
 
-### A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space
+### A Hierarchical Spatial Transformer for Massive Point Samples  in Continuous Space
 
 **Authors:** Wenchong He, Zhe Jiang, Tingsong Xiao, Zelin Xu, Shigang Chen, Ronald Fick, MILES MEDINA, Christine Angelini
 
@@ -7513,7 +7515,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Sarah Hooper, Mayee Chen, Khaled Saab, Kush Bhatia, Curtis Langlotz, Christopher Ré
 
-### A\*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs
+### A*Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs
 
 **Authors:** Zhaocheng Zhu, Xinyu Yuan, Michael Galkin, Louis-Pascal Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
 
@@ -8097,7 +8099,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Hisham Husain, Vu Nguyen, Anton van den Hengel
 
-### Distributionally Robust Ensemble of Lottery Tickets Towards Calibrated Sparse Network Training
+### Distributionally Robust Ensemble of Lottery Tickets Towards Calibrated  Sparse Network Training
 
 **Authors:** Hitesh Sapkota, Dingrong Wang, Zhiqiang Tao, Qi Yu
 
@@ -8357,7 +8359,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Dong Qiao, Chris Ding, Jicong Fan
 
-### Few-shot Generation via Recalling Brain-Inspired Episodic-Semantic Memory
+### Few-shot Generation via Recalling  Brain-Inspired Episodic-Semantic Memory
 
 **Authors:** Zhibin Duan, Zhiyi Lv, Chaojie Wang, Bo Chen, Bo An, Mingyuan Zhou
 
@@ -8521,7 +8523,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Thuy Dung Nguyen, Tuan Nguyen, Anh Tran, Khoa D Doan, Kok-Seng Wong
 
-### IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI
+### IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based  Generative AI
 
 **Authors:** Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li, Jinghui Chen
 
@@ -8745,7 +8747,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Amit Dhurandhar, Karthikeyan Natesan Ramamurthy, Kartik Ahuja, Vijay Arya
 
-### Lockdown: Backdoor Defense for Federated Learning with Isolated Subspace Training
+### Lockdown: Backdoor Defense for Federated Learning  with Isolated Subspace Training
 
 **Authors:** Tiansheng Huang, Sihao Hu, Ka-Ho Chow, Fatih Ilhan, Selim Tekin, Ling Liu
 
@@ -8883,7 +8885,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Jiahui Lei, Congyue Deng, William B Shen, Leonidas Guibas, Kostas Daniilidis
 
-### NCDL: A Framework for Deep Learning on non-Cartesian Lattices
+### NCDL:  A Framework for Deep Learning on non-Cartesian Lattices
 
 **Authors:** Joshua Horacsek, Usman Alim
 
@@ -9423,7 +9425,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Litu Rout, Negin Raoof, Giannis Daras, Constantine Caramanis, Alex Dimakis, Sanjay Shakkottai
 
-### Solving a Class of Non-Convex Minimax Optimization in Federated Learning
+### Solving a Class of Non-Convex  Minimax Optimization in Federated Learning
 
 **Authors:** Xidong Wu, Jianhui Sun, Zhengmian Hu, Aidong Zhang, Heng Huang
 
@@ -9811,7 +9813,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Anqi Mao, Mehryar Mohri, Yutao Zhong
 
-### $SE(3)$ Equivariant Convolution and Transformer in Ray Space
+### $SE(3)$  Equivariant Convolution and Transformer in Ray Space
 
 **Authors:** Yinshuang Xu, Jiahui Lei, Kostas Daniilidis
 
@@ -10081,7 +10083,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Gabriel Sarch, Michael Tarr, Katerina Fragkiadaki, Leila Wehbe
 
-### [Spotlight] Break It Down: Evidence for Structural Compositionality in Neural Networks
+### [Spotlight] Break It Down:  Evidence for Structural Compositionality in Neural Networks
 
 **Authors:** Michael Lepori, Thomas Serre, Ellie Pavlick
 
@@ -11345,7 +11347,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Sadaf Salehkalaibar, Truong Buu Phan, Jun Chen, Wei Yu, Ashish Khisti
 
-### On the impact of activation and normalization in obtaining isometric embeddings at initialization
+### On the impact of activation  and normalization in obtaining  isometric embeddings at initialization
 
 **Authors:** Amir Joudaki, Hadi Daneshmand, Francis Bach
 
@@ -11667,7 +11669,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Junyi Li, Heng Huang
 
-### Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline
+### Response Length Perception and  Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline
 
 **Authors:** Zangwei Zheng, Xiaozhe Ren, Fuzhao Xue, Yang Luo, Xin Jiang, Yang You
 
@@ -12077,7 +12079,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Elias Nehme, Omer Yair, Tomer Michaeli
 
-### Uncertainty-Aware Alignment Network for Cross-Domain Video-Text Retrieval
+### Uncertainty-Aware Alignment  Network  for Cross-Domain Video-Text Retrieval
 
 **Authors:** Xiaoshuai Hao, Wanqian Zhang
 
@@ -12275,7 +12277,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Ruozi Huang, Xipeng Wu, Hongsheng Yu, Zhong Fan, Haobo Fu, Qiang Fu, Wei Yang
 
-### A Step Towards Worldwide Biodiversity Assessment: The BIOSCAN-1M Insect Dataset
+### A Step Towards Worldwide Biodiversity Assessment:  The BIOSCAN-1M Insect Dataset
 
 **Authors:** Zahra Gharaee, ZeMing Gong, Nicholas Pellegrino, Iuliia Zarubiieva, Joakim Bruslund Haurum, Scott Lowe, Jaclyn McKeown, Chris Ho, Joschka McLeod, Yi-Yun Wei, Jireh Agda, Sujeevan Ratnasingham, Dirk Steinke, Angel Chang, Graham Taylor, Paul Fieguth
 
@@ -12583,7 +12585,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Wojciech Kusa, Oscar E. Mendoza, Matthias Samwald, Petr Knoth, Allan Hanbury
 
-### CaMP: Causal Multi-policy Planning for Interactive Navigation in Multi-room Scenes
+### CaMP: Causal Multi-policy Planning for Interactive Navigation in  Multi-room Scenes
 
 **Authors:** Xiaohan Wang, Yuehu Liu, Xinhang Song, Beibei Wang, Shuqiang Jiang
 
@@ -12809,7 +12811,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Oral Presentation:** Th, Dec 14, 13:50 -- Oral 6B
 
-### Discover and Align Taxonomic Context Priors for Open-world Semi-Supervised Learning
+### Discover and Align Taxonomic Context Priors  for Open-world Semi-Supervised Learning
 
 **Authors:** Yu Wang, Zhun Zhong, Pengchong Qiao, Xuxin Cheng, Xiawu Zheng, Chang Liu, Nicu Sebe, Rongrong Ji, Jie Chen
 
@@ -13213,7 +13215,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Oral Presentation:** Th, Dec 14, 14:05 -- Oral 6D
 
-### Improving _day-ahead_ Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context
+### Improving *day-ahead* Solar Irradiance Time Series Forecasting by Leveraging Spatio-Temporal Context
 
 **Authors:** Oussama Boussif, Ghait Boukachab, Dan Assouline, Stefano Massaroli, Tianle Yuan, Loubna Benabbou, Yoshua Bengio
 
@@ -13359,7 +13361,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Jiarui Jin, Xianyu Chen, Fanghua Ye, Mengyue Yang, Yue Feng, Weinan Zhang, Yong Yu, Jun Wang
 
-### [Spotlight] Let the Flows Tell: Solving Graph Combinatorial Problems with GFlowNets
+### [Spotlight] Let the Flows Tell:  Solving Graph Combinatorial Problems with GFlowNets
 
 **Authors:** Dinghuai Zhang, Hanjun Dai, Nikolay Malkin, Aaron Courville, Yoshua Bengio, Ling Pan
 
@@ -13683,7 +13685,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Aseem Baranwal, Kimon Fountoulakis, Aukosh Jagannath
 
-### [Spotlight] Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework for Online RL
+### [Spotlight] Optimistic Natural Policy Gradient: a Simple Efficient Policy Optimization Framework  for Online RL
 
 **Authors:** Qinghua Liu, Gellert Weisz, András György, Chi Jin, Csaba Szepesvari
 
@@ -14301,7 +14303,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** David Lindner, Janos Kramar, Sebastian Farquhar, Matthew Rahtz, Tom McGrath, Vladimir Mikulik
 
-### Training Your Image Restoration Network Better with Random Weight Network as Optimization Function
+### Training Your Image Restoration Network Better with  Random Weight Network as Optimization Function
 
 **Authors:** man zhou, Naishan Zheng, Yuan Xu, Chun-Le Guo, Chongyi Li
 
@@ -14405,7 +14407,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Jiyoung Lee, Seungho Kim, Seunghyun Won, Joonseok Lee, Marzyeh Ghassemi, James Thorne, Jaeseok Choi, O-Kil Kwon, Edward Choi
 
-### VisoGender: A dataset for benchmarking gender bias in image-text pronoun resolution
+### VisoGender:  A dataset for benchmarking gender bias in image-text pronoun resolution
 
 **Authors:** Siobhan Mackenzie Hall, Fernanda Gonçalves Abrantes, Hanwen Zhu, Grace Sodunke, Aleksandar Shtedritski, Hannah Rose Kirk
 
@@ -14437,7 +14439,7 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 **Authors:** Hengyu Fu, Tianyu Guo, Yu Bai, Song Mei
 
-### What is Flagged in Uncertainty Quantification? Latent Density Models for Uncertainty Categorization
+### What is Flagged in Uncertainty Quantification?  Latent Density Models for Uncertainty Categorization
 
 **Authors:** Hao Sun, Boris van Breugel, Jonathan Crabbé, Nabeel Seedat, Mihaela van der Schaar
 
@@ -14636,3 +14638,4 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 **Authors:** Aoxiang Zhang, Yu Ran, Weixuan Tang, Yuan-Gen Wang
 
 </details>
+

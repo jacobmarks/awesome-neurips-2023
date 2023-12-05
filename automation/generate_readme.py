@@ -63,7 +63,7 @@ def load_table_entries(path: str) -> List[str]:
 
 
 def add_cool_projects(markdown_content):
-    markdown_content += "## Cool NeurIPS Projects\n\n"
+    markdown_content += "\n\n## Cool NeurIPS Projects\n\n"
     markdown_content += "\n".join(TABLE_HEADER) + "\n"
     markdown_content += "\n".join(load_table_entries(COOL_PROJECTS_FILE))
     return markdown_content
