@@ -1,0 +1,18 @@
+lines.linewidth: 2.0
+axes.linewidth: 1.5
+xtick.major.width: 1.5
+ytick.major.width: 1.5
+xtick.direction : in
+ytick.direction : in
+ytick.right: True
+ytick.left: True
+xtick.bottom: True
+xtick.top: True
+xtick.labelsize: 16
+ytick.labelsize: 16
+axes.labelsize : 18
+#text.usetex : True
+#text.latex.preamble : \usepackage{amsmath},\usepackage{amssymb}
+#font.family: sans-serif
+#font.sans-serif : Arial
+mathtext.fontset: stix
