@@ -96,14 +96,25 @@ plt.close()
 
 
 title_lengths_2022 = [len(title.split()) for title in titles_2022]
-title_lengths2023 = [len(neurips_2023_data[key]["title"].split()) for key in keys]
+title_lengths_2023 = [len(neurips_2023_data[key]["title"].split()) for key in keys]
+
+# Find the maximum title length in both years
+max_length = max(max(title_lengths_2022), max(title_lengths_2023))
+
+# Create bins from 0.5 to max_length + 0.5 to center bins on integers
+bins = [i + 0.5 for i in range(max_length + 1)]
 
 plt.figure(figsize=(10, 6))
-plt.hist(title_lengths_2022, bins=100, density=True, label="2022");
-plt.hist(title_lengths2023, bins=100, density=True, label="2023");
-plt.xlabel("Title Length (words)");
-plt.ylabel("Density");
-plt.legend();
+
+# Plot histograms with density and centered bars
+plt.hist(title_lengths_2022, bins=bins, edgecolor='black', alpha=0.5, density=True, label="2022")
+plt.hist(title_lengths_2023, bins=bins, edgecolor='black', alpha=0.5, density=True, label="2023")
+
+plt.xlabel("Title Length (words)")
+plt.ylabel("Density")
+plt.xticks(range(1, max_length + 1))  # Set x-ticks to be integers
+plt.xlim(0.5, max_length + 0.5)  # Set x-axis limits to align with bins
+plt.legend()
 plt.savefig("images/title_length_histogram_2022_2023.png");
 plt.cla()
 plt.close()
