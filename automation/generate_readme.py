@@ -103,11 +103,12 @@ def _get_session(date):
 def format_entry(entry):
     oral_str = ""
     authors = ", ".join(entry["authors"])
-    abstract = entry["abstract"].replace("\n", "\n\n")
-    if abstract == "":
-        abstract_string = ""
-    else:
-        abstract_string = f"**<details><summary>Abstract**</summary>\n\n{abstract}</details>\n\n"
+    abstract_string = ""
+    # abstract = entry["abstract"].replace("\n", "\n\n")
+    # if abstract == "":
+    #     abstract_string = ""
+    # else:
+    #     abstract_string = f"**<details><summary>Abstract**</summary>\n\n{abstract}</details>\n\n"
     title_str = entry["title"]
     if entry["spotlight"]:
         title_str = "[Spotlight] " + title_str
