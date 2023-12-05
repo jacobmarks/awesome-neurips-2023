@@ -83,4 +83,29 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 - The longest abstract was from [[Re] On the Reproducibility of FairCal: Fairness Calibration for Face Verification](https://neurips.cc/virtual/2023/poster/74168), which has 373 words.
 - The shortest abstract was from [Improved Convergence in High Probability of Clipped Gradient Methods with Heavy Tailed Noise](https://neurips.cc/virtual/2023/poster/70813), which has 29 words.
 
+#### GitHub Reigns Supreme
+
+- Out of the 3581 abstracts, 671 explicitly mention GitHub, including a link to their code, models, or data.
+- Only 79 abstracts include a URL that is *not* GitHub.
+
+#### Modalities, Models, and Tasks
+
+Using a [CLIP](https://github.com/openai/CLIP) model, we zero-shot 
+classified/predicted the modality of focus for each paper based on its abstract.
+The categories were `["vision", "text", "audio", "tabular", "time series", "multimodal"]`.
+
+By far the biggest category was multimodal, with a count of 1295. However, the 
+CLIP model's inclination towards "multimodal" may be somewhat biased by trying 
+to partially fit other modalities — the words `multi-modal` and `multimodal` only 
+show up in 156 abstracts, and phrases like `vision-language` and `text-to-image` 
+only appear a handful of times across the dataset. 
+
+Themes occurring frequently include:
+
+- "benchmark": 731
+- ("generation", "generate"): 677
+- ("efficient", "efficiency"): 961
+- "agent": 279
+- ("llm", "large language model"): 237
+
 </details>
