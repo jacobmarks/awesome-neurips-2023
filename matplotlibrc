@@ -11,8 +11,7 @@ xtick.top: True
 xtick.labelsize: 16
 ytick.labelsize: 16
 axes.labelsize : 18
-#text.usetex : True
-#text.latex.preamble : \usepackage{amsmath},\usepackage{amssymb}
-#font.family: sans-serif
-#font.sans-serif : Arial
+text.usetex : True
+font.family: sans-serif
+font.sans-serif : Arial
 mathtext.fontset: stix
