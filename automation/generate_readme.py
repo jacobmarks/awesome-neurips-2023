@@ -138,8 +138,15 @@ def _add_session(papers_by_session, session_number):
     return current_session
 
 
+GITHUB_CUTOFF_MESSAGE = (
+    "Note: GitHub automatically truncates files larger than 512 KB. "
+    "This means that papers in session 6 may not render correctly on GitHub. "
+    "Please download the file and open it locally to view the full schedule."
+)
+
 def add_conference_schedule(markdown_content):
     markdown_content += "\n\n## Conference Schedule\n\n"
+    markdown_content += GITHUB_CUTOFF_MESSAGE + "\n\n"
     with open(ALL_PAPERS_FILE, "r") as f:
         papers = json.load(f)
 

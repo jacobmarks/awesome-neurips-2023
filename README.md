@@ -133,6 +133,8 @@ There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 ## Conference Schedule
 
+Note: GitHub automatically truncates files larger than 512 KB. This means that papers in session 6 may not render correctly on GitHub. Please download the file and open it locally to view the full schedule.
+
 <details><summary><h3 style='display: inline;'> Poster Session 1: Tuesday, Dec 12, 08:45 CT</h3></summary>
 
 ### (S)GD over Diagonal Linear Networks: Implicit bias, Large Stepsizes and Edge of Stability
