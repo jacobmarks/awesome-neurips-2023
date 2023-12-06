@@ -2372,6 +2372,14 @@ Current auxiliary learning methods mainly adopt the methodology of reweighing lo
 
 This paper proposes a method for hiding the least-important samples during the training of deep neural networks to increase efficiency, i.e., to reduce the cost of training. Using information about the loss and prediction confidence during training, we adaptively find samples to exclude in a given epoch based on their contribution to the overall learning process, without significantly degrading accuracy. We explore the converge properties when accounting for the reduction in the number of SGD updates.  Empirical results on various large-scale datasets and models used directly in image classification and segmentation show that while the with-replacement importance sampling algorithm performs poorly on large datasets,  our method can reduce total training time by up to 22\% impacting accuracy only by 0.4\% compared to the baseline.</details>
 
+### KD-Zero: Evolving Knowledge Distiller for Any Teacher-Student Pairs
+
+**Authors:** Lujun Li, Peijie Dong, Anggeng Li, Zimian Wei, Ya Yang
+
+**<details><summary>Abstract**</summary>
+
+Knowledge distillation (KD) has emerged as an effective technique for compressing models that can enhance the lightweight model. Conventional KD methods propose various designs to allow student model to imitate the teacher better. However, these handcrafted KD designs heavily rely on expert knowledge and may be sub-optimal for various teacher-student pairs. In this paper, we present a novel framework, KD-Zero, which utilizes evolutionary search to automatically discover promising distiller from scratch for any teacher-student architectures. Specifically, we first decompose the generalized distiller into knowledge transformations, distance functions, and loss weights. Then, we construct our distiller search space by selecting advanced operations for these three components. With sharpness and represent gap as fitting objectives, we evolve candidate populations and generate better distillers by crossover and mutation. To ensure efficient searching, we employ the loss-rejection protocol, search space shrinkage, and proxy settings during the search process. In this manner, the discovered distiller can address the capacity gap and cross-architecture challenges for any teacher-student pairs in the final distillation stage. Comprehensive experiments reveal that KD-Zero consistently outperforms other state-of-the-art methods across diverse architectures on classification, detection, and segmentation tasks. Noticeably, we provide some practical insights in designing the distiller by analyzing the distiller discovered. Code is at https://github.com/lilujunai/KD-Zero.</details>
+
 ### [Spotlight] Kernel Quadrature with Randomly Pivoted Cholesky
 
 **Authors:** Ethan Epperly, Elvira Moreno
@@ -3813,14 +3821,6 @@ Semantic 2D maps are commonly used by humans and machines for navigation purpose
 **<details><summary>Abstract**</summary>
 
 This paper introduces SOAR: **S**pilling with **O**rthogonality-**A**mplified **R**esiduals, a novel data indexing technique for approximate nearest neighbor (ANN) search. SOAR extends upon previous approaches to ANN search, such as spill trees, that utilize multiple redundant representations while partitioning the data to reduce the probability of missing a nearest neighbor during search. Rather than training and computing these redundant representations independently, however, SOAR uses an *orthogonality-amplified residual* loss, which optimizes each representation to compensate for cases where other representations perform poorly. This drastically improves the overall index quality, resulting in state-of-the-art ANN benchmark performance while maintaining fast indexing times and low memory consumption.</details>
-
-### SOAR: Improved Quantization for Approximate Nearest Neighbor Search
-
-**Authors:** Philip Sun, David Simcha, Dave Dopson, Ruiqi Guo, Sanjiv Kumar
-
-**<details><summary>Abstract**</summary>
-
-This paper introduces SOAR: Spilling with Orthogonality-Amplified Residuals, a novel data indexing technique for approximate nearest neighbor (ANN) search. SOAR extends upon previous approaches to ANN search, such as spill trees, that utilize multiple redundant representations while partitioning the data to reduce the probability of missing a nearest neighbor during search. Rather than training and computing these redundant representations independently, however, SOAR uses an orthogonality-amplified residual loss, which optimizes each representation to compensate for cases where other representations perform poorly. This drastically improves the overall index quality, resulting in state-of-the-art ANN benchmark performance while maintaining fast indexing times and low memory consumption.</details>
 
 ### SOC: Semantic-Assisted  Object Cluster for Referring Video Object Segmentation
 

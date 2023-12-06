@@ -11,8 +11,6 @@ In this repo, you will find:
 - [Awesome Projects](#cool-neurips-projects): synthesized collection of 40 NeurIPS 2023 papers you won't want to miss
 - [Conference Schedule](#conference-schedule): comprehensive listing of all NeurIPS 2023 projects (title, authors, abstract) organized by poster session and sorted alphabetically
 
-_Note_: Our data contains 3581 out of the 3584 accepted papers. If you are an author of one of the 3 remaining papers, I sincerely apologize, and would love for you to get in touch so we can add the paper :)
-
 ## Data Analysis
 
 The raw data is included in this repo. If you have ideas for other interesting analyses, feel free to create an issue or submit a PR!
@@ -35,18 +33,18 @@ The top 10 authors with the most papers at NeurIPS 2023 are:
 
 - Bo Li: 15 papers
 - Ludwig Schmidt: 14 papers
-- Mihaela van der Schaar: 13 papers
 - Bo Han: 13 papers
+- Mihaela van der Schaar: 13 papers
 - Hao Wang: 12 papers
-- Masashi Sugiyama: 11 papers
-- Bernhard Schölkopf: 11 papers
 - Dacheng Tao: 11 papers
+- Bernhard Schölkopf: 11 papers
+- Masashi Sugiyama: 11 papers
 - Andreas Krause: 11 papers
 - Tongliang Liu: 11 papers
 
 #### Number of unique authors
 
-There were 12,994 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
+There were 13,012 unique authors at NeurIPS 2023, up from 9913 at NeurIPS 2022.
 
 This continues the exponential explosion of unique authors over the past decade.
 
@@ -92,7 +90,7 @@ continues an ongoing trend of title lengthening:
 
 #### GitHub Reigns Supreme
 
-- Out of the 3581 abstracts, 671 explicitly mention GitHub, including a link to their code, models, or data.
+- Out of the 3581 abstracts, 675 explicitly mention GitHub, including a link to their code, models, or data.
 - Only 79 abstracts include a URL that is *not* GitHub.
 
 #### Modalities, Models, and Tasks
@@ -101,7 +99,7 @@ Using a [CLIP](https://github.com/openai/CLIP) model, we zero-shot
 classified/predicted the modality of focus for each paper based on its abstract.
 The categories were `["vision", "text", "audio", "tabular", "time series", "multimodal"]`.
 
-By far the biggest category was multimodal, with a count of 1295. However, the 
+By far the biggest category was multimodal, with a count of 1296. However, the 
 CLIP model's inclination towards "multimodal" may be somewhat biased by trying 
 to partially fit other modalities — the words `multi-modal` and `multimodal` only 
 show up in 156 abstracts, and phrases like `vision-language` and `text-to-image` 
@@ -109,11 +107,11 @@ only appear a handful of times across the dataset.
 
 Themes occurring frequently include:
 
-- "benchmark": 731
-- ("generation", "generate"): 677
-- ("efficient", "efficiency"): 961
-- "agent": 279
-- ("llm", "large language model"): 237
+- "benchmark": 730
+- ("generation", "generate"): 681
+- ("efficient", "efficiency"): 963
+- "agent": 280
+- ("llm", "large language model"): 238
 
 </details>
 
