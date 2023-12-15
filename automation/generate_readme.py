@@ -11,8 +11,8 @@ ALL_PAPERS_FILE = "data/neurips2023data.json"
 
 
 TABLE_HEADER = [
-    "| **Title** | **Paper** | **Code** | **Project Page** | **Hugging Face** |",
-    "|:---------:|:---------:|:--------:|:----------------:|:----------------:|",
+    "| **Title** | **Paper** | **Code** | **Project Page** | **Hugging Face** | **Blog** |",
+    "|:---------:|:---------:|:--------:|:----------------:|:----------------:|:--------:|",
 ]
 
 TITLE_COLUMN_NAME = "title"
@@ -20,6 +20,7 @@ PAPER_COLUMN_NAME = "arxiv"
 CODE_COLUMN_NAME = "github"
 PROJECT_COLUMN_NAME = "project_page"
 HF_COLUMN_NAME = "hugging_face"
+BLOG_COLUMN_NAME = "blog"
 
 GITHUB_CODE_PREFIX = "https://github.com/"
 GITHUB_BADGE_PATTERN = (
@@ -37,6 +38,7 @@ def _add_row_to_table(data_file, entry: Series) -> str:
     code_url = entry.loc[CODE_COLUMN_NAME]
     project_url = entry.loc[PROJECT_COLUMN_NAME]
     hf_url = entry.loc[HF_COLUMN_NAME]
+    blog_url = entry.loc[BLOG_COLUMN_NAME]
 
     hf_badge = HF_BADGE_PATTERN.format(hf_url) if type(hf_url) == str else ""
     code_badge = (
@@ -49,8 +51,10 @@ def _add_row_to_table(data_file, entry: Series) -> str:
         PROJECT_PATTERN.format(project_url) if type(project_url) == str else ""
     )
 
+    blog = f"[Blog]({blog_url})" if type(blog_url) == str else ""
+
     return (
-        f"| {title} | {paper_badge} | {code_badge}| {project} | {hf_badge} |"
+        f"| {title} | {paper_badge} | {code_badge}| {project} | {hf_badge} | {blog} |"
     )
 
 

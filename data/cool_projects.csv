@@ -1,41 +1,41 @@
-title,arxiv,github,project_page,hugging_face
-Segment Anything in High Quality,2306.01567,"SysCV/sam-hq",,https://huggingface.co/spaces/sam-hq-team/sam-hq
-Segment Everything Everywhere All at Once,2304.06718,"UX-Decoder/Segment-Everything-Everywhere-All-At-Once",,
-Photoswap: Personalized Subject Swapping in Images,2305.18286,"eric-ai-lab/photoswap",https://photoswap.github.io/,
-ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting,2307.12348,"zsyOAOA/ResShift",https://zsyoaoa.github.io/projects/resshift/,
-DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data,2306.09344,"ssundaram21/dreamsim",https://dreamsim-nights.github.io/,
-MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion,2307.01097,"Tangshitao/MVDiffusion",https://mvdiffusion.github.io/,
-Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation,2306.17115,"NeuralCarver/Michelangelo",https://neuralcarver.github.io/michelangelo/,
-Segment Anything in 3D with NeRFs,2304.12308,"Jumpat/SegmentAnythingin3D",https://jumpat.github.io/SA3D/,
-Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset,2307.00818,"IDEA-Research/Motion-X",https://motion-x-dataset.github.io/,
-Reflexion: Language Agents with Verbal Reinforcement Learning,2303.11366,"noahshinn/reflexion",,
-Augmenting Language Models with Long-Term Memory,2306.07174,"Victorwz/LongMem",,
-Unlimiformer: Long-Range Transformers with Unlimited Length Input,2305.01625,"abertsch72/unlimiformer",,
-LLM-Pruner: On the Structural Pruning of Large Language Models,2305.11627,"horseee/LLM-Pruner",,
-Self-Refine: Iterative Refinement with Self-Feedback,2303.17651,"madaan/self-refine",https://selfrefine.info/,
-Toolformer: Language Models Can Teach Themselves to Use Tools,2302.04761,,,
-Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena,2306.05685,"lm-sys/FastChat/tree/main/fastchat/llm_judge",,
-Mathematical Capabilities of ChatGPT,2301.13867,"friederrr/GHOSTS",https://ghosts.friederrr.org/,
-QLoRA: Efficient Finetuning of Quantized LLMs,2305.14314,"artidoro/qlora",,https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi
-LIMA: Less Is More for Alignment,2305.11206,,,
-Fine-Tuning Language Models with Just Forward Passes,2305.17333,"princeton-nlp/MeZO",,
-Direct Preference Optimization: Your Language Model is Secretly a Reward Model,2305.18290,"eric-mitchell/direct-preference-optimization",,
-Visual Instruction Tuning,2304.08485,"haotian-liu/LLaVA",https://llava-vl.github.io/,https://huggingface.co/spaces/badayvedat/LLaVA
-ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation,2304.05977,"THUDM/ImageReward",,https://huggingface.co/THUDM/ImageReward
-Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models,2305.15023,"luogen1996/LaVIN",https://luogen1996.github.io/lavin/,
-Generating Images with Multimodal Language Models,2305.17216,"kohjingyu/gill",https://jykoh.com/gill,
-An Inverse Scaling Law for CLIP Training,2305.07017,"UCSC-VLAA/CLIPA",,
-InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,2305.06500,"salesforce/LAVIS/tree/main/projects/instructblip",,Salesforce/instructblip-vicuna-7b
-Holistic Evaluation of Text-To-Image Models,2311.04287,"stanford-crfm/heim",https://crfm.stanford.edu/heim/latest/,
-OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents,2306.16527,"huggingface/OBELICS",,https://huggingface.co/datasets/HuggingFaceM4/OBELICS
-MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing,2306.10012,"OSU-NLP-Group/MagicBrush",https://osu-nlp-group.github.io/MagicBrush/,https://huggingface.co/datasets/osunlp/MagicBrush
-Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models,2304.09842,"lupantech/chameleon-llm",https://chameleon-llm.github.io/,
-Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation,2305.01569,"yuvalkirstain/PickScore",,https://huggingface.co/datasets/yuvalkirstain/pickapic_v1
-HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face,2303.17580,"microsoft/JARVIS",,https://huggingface.co/spaces/microsoft/HuggingGPT
-DataComp: In search of the next generation of multimodal datasets,2304.14108,"mlfoundations/datacomp",https://www.datacomp.ai/,
-LAMM: Multi-Modal Large Language Models and Applications as AI Agents,2306.06687,"OpenGVLab/LAMM",https://openlamm.github.io/,
-LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario,2310.08348,"opendilab/LightZero",,
-Simple and Controllable Music Generation,2306.05284,"facebookresearch/audiocraft",,
-"Squeeze, Recover and Relabel : Dataset Condensation at ImageNet Scale From A New Perspective",2306.13092,"VILA-Lab/SRe2L",,
-MotionGPT: Human Motion as Foreign Language,2306.14795,"OpenMotionLab/MotionGPT",https://motion-gpt.github.io/,https://huggingface.co/spaces/OpenMotionLab/MotionGPT
-"The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only",2306.01116,,,https://huggingface.co/datasets/tiiuae/falcon-refinedweb
+title,arxiv,github,project_page,hugging_face,blog
+Segment Anything in High Quality,2306.01567,SysCV/sam-hq,,https://huggingface.co/spaces/sam-hq-team/sam-hq,https://supervisely.com/blog/segment-anything-in-high-quality-HQ-SAM/
+Segment Everything Everywhere All at Once,2304.06718,UX-Decoder/Segment-Everything-Everywhere-All-At-Once,,,
+Photoswap: Personalized Subject Swapping in Images,2305.18286,eric-ai-lab/photoswap,https://photoswap.github.io/,,
+ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting,2307.12348,zsyOAOA/ResShift,https://zsyoaoa.github.io/projects/resshift/,,https://www.marktechpost.com/2023/08/01/ntu-singapore-researchers-introduce-resshift-a-new-upscaler-model-that-uses-residual-shifting-and-achieves-image-super-resolution-faster-compared-to-other-methods/
+DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data,2306.09344,ssundaram21/dreamsim,https://dreamsim-nights.github.io/,,https://medium.com/voxel51/teaching-androids-to-dream-of-sheep-18d72f44f2b
+MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion,2307.01097,Tangshitao/MVDiffusion,https://mvdiffusion.github.io/,,
+Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation,2306.17115,NeuralCarver/Michelangelo,https://neuralcarver.github.io/michelangelo/,,
+Segment Anything in 3D with NeRFs,2304.12308,Jumpat/SegmentAnythingin3D,https://jumpat.github.io/SA3D/,,https://www.marktechpost.com/2023/05/22/when-sam-meets-nerf-this-ai-model-can-segment-anything-in-3d/
+Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset,2307.00818,IDEA-Research/Motion-X,https://motion-x-dataset.github.io/,,
+Reflexion: Language Agents with Verbal Reinforcement Learning,2303.11366,noahshinn/reflexion,,,https://nanothoughts.substack.com/p/reflecting-on-reflexion
+Augmenting Language Models with Long-Term Memory,2306.07174,Victorwz/LongMem,,,
+Unlimiformer: Long-Range Transformers with Unlimited Length Input,2305.01625,abertsch72/unlimiformer,,,https://pub.towardsai.net/unlimiformer-long-range-transformers-with-unlimited-length-input-3725f69b0d03?gi=86f7474233cb
+LLM-Pruner: On the Structural Pruning of Large Language Models,2305.11627,horseee/LLM-Pruner,,,
+Self-Refine: Iterative Refinement with Self-Feedback,2303.17651,madaan/self-refine,https://selfrefine.info/,,https://www.marktechpost.com/2023/04/07/this-ai-paper-introduce-self-refine-a-framework-for-improving-initial-outputs-from-llms-through-iterative-feedback-and-refinement/
+Toolformer: Language Models Can Teach Themselves to Use Tools,2302.04761,,,,https://kikaben.com/toolformer-2023/
+Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena,2306.05685,lm-sys/FastChat/tree/main/fastchat/llm_judge,,,
+Mathematical Capabilities of ChatGPT,2301.13867,friederrr/GHOSTS,https://ghosts.friederrr.org/,,
+QLoRA: Efficient Finetuning of Quantized LLMs,2305.14314,artidoro/qlora,,https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi,https://medium.com/@dariussingh/qlora-a-new-way-to-finetune-llms-4a5ff292903d
+LIMA: Less Is More for Alignment,2305.11206,,,,https://medium.com/version-1/comprehensive-analysis-of-lima-less-is-more-for-alignment-8967687ea432
+Fine-Tuning Language Models with Just Forward Passes,2305.17333,princeton-nlp/MeZO,,,https://gaotianyu.xyz/blog/2023/11/14/mezo/
+Direct Preference Optimization: Your Language Model is Secretly a Reward Model,2305.18290,eric-mitchell/direct-preference-optimization,,,https://medium.com/@joaolages/direct-preference-optimization-dpo-622fc1f18707
+Visual Instruction Tuning,2304.08485,haotian-liu/LLaVA,https://llava-vl.github.io/,https://huggingface.co/spaces/badayvedat/LLaVA,https://medium.com/voxel51/understanding-llava-large-language-and-vision-assistant-8b7772f5eec4
+ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation,2304.05977,THUDM/ImageReward,,https://huggingface.co/THUDM/ImageReward,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#ImageReward
+Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models,2305.15023,luogen1996/LaVIN,https://luogen1996.github.io/lavin/,,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#9dcb
+Generating Images with Multimodal Language Models,2305.17216,kohjingyu/gill,https://jykoh.com/gill,,
+An Inverse Scaling Law for CLIP Training,2305.07017,UCSC-VLAA/CLIPA,,,
+InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,2305.06500,salesforce/LAVIS/tree/main/projects/instructblip,,Salesforce/instructblip-vicuna-7b,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#b689
+Holistic Evaluation of Text-To-Image Models,2311.04287,stanford-crfm/heim,https://crfm.stanford.edu/heim/latest/,,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#b237
+OBELICS: An Open Web-Scale Filtered Dataset of Interleaved Image-Text Documents,2306.16527,huggingface/OBELICS,,https://huggingface.co/datasets/HuggingFaceM4/OBELICS,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#e062
+MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing,2306.10012,OSU-NLP-Group/MagicBrush,https://osu-nlp-group.github.io/MagicBrush/,https://huggingface.co/datasets/osunlp/MagicBrush,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#MagicBrush
+Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models,2304.09842,lupantech/chameleon-llm,https://chameleon-llm.github.io/,,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#b961
+Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation,2305.01569,yuvalkirstain/PickScore,,https://huggingface.co/datasets/yuvalkirstain/pickapic_v1,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#3a8f
+HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face,2303.17580,microsoft/JARVIS,,https://huggingface.co/spaces/microsoft/HuggingGPT,
+DataComp: In search of the next generation of multimodal datasets,2304.14108,mlfoundations/datacomp,https://www.datacomp.ai/,,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#1ede
+LAMM: Multi-Modal Large Language Models and Applications as AI Agents,2306.06687,OpenGVLab/LAMM,https://openlamm.github.io/,https://medium.com/voxel51/neurips-2023-survival-guide-2f957d5b07c9#a998,
+LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenario,2310.08348,opendilab/LightZero,,,
+Simple and Controllable Music Generation,2306.05284,facebookresearch/audiocraft,,,https://vivek-murali.medium.com/simple-and-controllable-music-generation-musicgen-by-meta-cc8863d73792
+"Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",2306.13092,VILA-Lab/SRe2L,,,
+MotionGPT: Human Motion as Foreign Language,2306.14795,OpenMotionLab/MotionGPT,https://motion-gpt.github.io/,https://huggingface.co/spaces/OpenMotionLab/MotionGPT,https://medium.com/@kaveh.kamali/unlocking-the-language-of-motion-meet-motiongpt-8efee7700fd3
+"The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only",2306.01116,,,https://huggingface.co/datasets/tiiuae/falcon-refinedweb,https://medium.com/dair-ai/papers-explained-59-falcon-26831087247f
