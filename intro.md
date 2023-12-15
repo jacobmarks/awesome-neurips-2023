@@ -21,7 +21,9 @@ For now, insights are organized into the following categories:
 - Titles
 - Abstracts
 
-For the data analysis itself, check out the [Jupyter Notebook](./analysis.ipynb)!
+🔍 For the data analysis itself, check out the [Jupyter Notebook](./analysis.ipynb)!
+
+🔍 And check out the blog post synthesizing the results [here](https://voxel51.com/blog/neurips-2023-and-the-state-of-ai-research/).
 
 <details><summary><h3 style='display: inline;'> Authors</h3></summary>
 
